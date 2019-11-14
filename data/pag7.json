@@ -1,0 +1,3010 @@
+[
+  {
+    "id": 5162,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "001/2019",
+    "numero_processo": "0009/19",
+    "objeto": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE REFEIÇÕES (ALMOÇO/JANTA) TIPO MARMITEX, PARA ATENDIMENTO DOS FUNCIONÁRIOS DAS DIVERSAS SECRETARIAS E DEPARTAMENTO DA PREFEITURA MUNICIPAL DE CANDEIAS/BAHIA",
+    "orgao": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO /SECRETARIA MUNICIPAL DE SAÚDE",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2019-01-25 09:01:31",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-01-14 09:20:51",
+    "updated_at": "2019-02-13 09:01:31",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO\r\n• Unidade Orçamentária\t88.87 – Encargos Administrativos Diversos\r\n• Unidade Gestora\t\t88- Encargos Gerais\r\n• Projeto/Atividade\t\t2.097– Encargos Administrativos Diversos do Município\r\n• Elemento de Despesa \t3.3.90.39.00.00 – Outros Serviços de Terceiros- Pj\r\n• Fonte de Recursos \t00.0.1.0000– Recursos Ordinários - Tesouro\r\n\r\nSECRETARIA MUNICIPAL DE SAÚDE\r\n• Unidade Orçamentária\t20.02 – Fundo Municipal de Saúde de Candeias\r\n• Unidade Gestora\t\t20 - Secretaria de Saúde - SESAU\r\n• Projeto/Atividade\t\t2.090 – Gestão das Ações Administrativa da SESAU\r\n• Elemento de Despesa \t33.90.39.00.00– Outros Serviços de Terceiros\r\n• Fonte de Recursos \t00.0.1.0002 \r\n",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 1,
+    "lic_ano": 2019,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13518,
+        "filename": "EDITAL PP 0012019 - FORNECIMENTO DE  REFEIÇÕES(C).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "286826",
+        "created_at": "2019-01-14 09:20:42",
+        "updated_at": "2019-01-14 09:20:42",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/59be490948c7a9cab723c0ecc49a4c009a7b1436.pdf",
+        "pivot": {
+          "licitacao_id": 5162,
+          "arquivo_id": 13518,
+          "created_at": "2019-01-14 09:20:51",
+          "updated_at": "2019-01-14 09:20:51"
+        }
+      },
+      {
+        "id": 14506,
+        "filename": "ATA DE ABERTURA DO PP 001-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "652434",
+        "created_at": "2019-01-25 15:17:08",
+        "updated_at": "2019-01-25 15:17:08",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1d39660c12cdf3b05509395426ec419abab730ea.pdf",
+        "pivot": {
+          "licitacao_id": 5162,
+          "arquivo_id": 14506,
+          "created_at": "2019-01-25 15:17:16",
+          "updated_at": "2019-01-25 15:17:16"
+        }
+      },
+      {
+        "id": 14706,
+        "filename": "ATA DE REABERTURA  PP 001-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "80075",
+        "created_at": "2019-01-31 15:03:07",
+        "updated_at": "2019-01-31 15:03:07",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/024b83c49136a95b56ec913da71d087b95eaee7d.pdf",
+        "pivot": {
+          "licitacao_id": 5162,
+          "arquivo_id": 14706,
+          "created_at": "2019-01-31 15:03:15",
+          "updated_at": "2019-01-31 15:03:15"
+        }
+      },
+      {
+        "id": 15130,
+        "filename": "ATA DE JULGAMENTO DO PP 001-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "189058",
+        "created_at": "2019-02-13 09:01:25",
+        "updated_at": "2019-02-13 09:01:25",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/e25558ebd5b14341c1c4ddecab27798a7e4b6850.pdf",
+        "pivot": {
+          "licitacao_id": 5162,
+          "arquivo_id": 15130,
+          "created_at": "2019-02-13 09:01:32",
+          "updated_at": "2019-02-13 09:01:32"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5162'>Ver mais</a>"
+  },
+  {
+    "id": 9308,
+    "created_by": 37,
+    "modalidade_id": 13,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "001/2019",
+    "numero_processo": " 0551/19",
+    "objeto": "AQUISIÇÃO EXCLUSIVA DE GÊNEROS ALIMENTÍCIOS POR MEIO DE CHAMADA PÚBLICA COM CONTRATAÇÃO DE COOPERATIVAS DE AGRICULTORES E/OU ASSOCIAÇÕES E EMPREENDEDORES RURAIS FAMILIARES PARA O FORNECIMENTO DOS GÊNEROS ALIMENTÍCIOS DE ORIGEM DOS GÊNEROS ALIMENTÍCIOS PERECÍVEIS E NÃO PERECÍVEIS (AGRICULTURA FAMILIAR), DESTINADOS AOS ALUNOS DA REDE PÚBLICA MUNICIPAL DE CANDEIAS/BA ",
+    "orgao": "SECRETARIA MUNICIPAL DE EDUCAÇÃO ",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2019-09-18 11:19:40",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-09-18 11:15:51",
+    "updated_at": "2019-09-18 11:19:40",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE EDUCAÇÃO  • Unidade Orçamentária 18.02 - Fundo Municipal de Educação  • Unidade Gestora  18 - Secretaria Municipal de Educação – SEDUC • Funcional                           12.306.0016 – Alimentação e Nutrição  • Projeto/Atividade  2.067 – Gestão de Ações de Alimentação Escolar • Elemento de Despesa  3.3.90.30.00.00 – Material de consumo • Fonte de Recursos  00.01.0015 – Transf. De Recursos do FNDE ",
+    "modalidade_descricao": "Chamada Pública",
+    "lic_numero": 1,
+    "lic_ano": 2019,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 13,
+      "descricao": "Chamada Pública",
+      "created_at": "2017-04-03 11:51:29",
+      "updated_at": "2017-04-03 11:51:33"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 25450,
+        "filename": "EDITAL CHAMADA  PÚBLICA 0012019- AQUISIÇÃO EXCLUSIVA DE GÊNEROS ALIMENTÍCIOS  - HORTIFRUTIGRANJEIRO E POLPA DE PEIXE.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "1617055",
+        "created_at": "2019-09-18 11:15:19",
+        "updated_at": "2019-09-18 11:15:19",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/5bd5fa931287e86c0c4fe29d12e0ee6981a7768a.pdf",
+        "pivot": {
+          "licitacao_id": 9308,
+          "arquivo_id": 25450,
+          "created_at": "2019-09-18 11:15:51",
+          "updated_at": "2019-09-18 11:15:51"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/9308'>Ver mais</a>"
+  },
+  {
+    "id": 5511,
+    "created_by": 37,
+    "modalidade_id": 12,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "001/2019",
+    "numero_processo": "0518",
+    "objeto": "FORNECIMENTO E INSTALAÇÃO DE EQUIPAMENTOS DE PARQUES INFANTIS PLAYGROUND nos diversos espaços públicos do Município de Candeias - Ba",
+    "orgao": "SEINFO",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2019-02-21 10:59:29",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-02-05 13:06:38",
+    "updated_at": "2019-04-04 10:59:29",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS\r\n• Unidade Orçamentária\t11-Secretaria de Serviços Públicos-SESP\r\n• Unidade Gestora\t\t11.01-Secretaria de Serviços Públicos-SESP\r\n• Projeto/Atividade\t\t2.113-Manutenção dos Serviços Técnicos e Administrativos-SESP\r\n• Elemento de Despesa       4.4.90.52.00.00- Equipamentos e Material Permanente- SESP\r\n• Fonte de Recursos             00.01.0000- Tesouro Ordinário \r\n",
+    "modalidade_descricao": "Tomada de Preços",
+    "lic_numero": 1,
+    "lic_ano": 2019,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 12,
+      "descricao": "Tomada de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 14883,
+        "filename": "EDITAL TP 001-19  -  Playgraud SESP.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "972556",
+        "created_at": "2019-02-05 13:05:24",
+        "updated_at": "2019-02-05 13:05:24",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/3c634b02b80c34646ebd7225340f803af0ff97de.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 14883,
+          "created_at": "2019-02-05 13:06:38",
+          "updated_at": "2019-02-05 13:06:38"
+        }
+      },
+      {
+        "id": 14884,
+        "filename": "ORÇ. PLANILHA LICITAÇÃO-Parque ANEXO EDITAL.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "45569",
+        "created_at": "2019-02-05 13:06:28",
+        "updated_at": "2019-02-05 13:06:28",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1db19eba1d88eca0aa7b7259793b3c0e377d5c0e.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 14884,
+          "created_at": "2019-02-05 13:06:38",
+          "updated_at": "2019-02-05 13:06:38"
+        }
+      },
+      {
+        "id": 14885,
+        "filename": "BDI.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "80527",
+        "created_at": "2019-02-05 13:06:29",
+        "updated_at": "2019-02-05 13:06:29",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/98ecc526fd2a28dc382b9a869e03b033207cef65.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 14885,
+          "created_at": "2019-02-05 13:06:38",
+          "updated_at": "2019-02-05 13:06:38"
+        }
+      },
+      {
+        "id": 14943,
+        "filename": "ESCLARECIMENTO TP 0012019.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "27072",
+        "created_at": "2019-02-06 16:42:38",
+        "updated_at": "2019-02-06 16:42:38",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/ef3636e641b41ea7a7bce0ebc6193f843beb4704.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 14943,
+          "created_at": "2019-02-06 16:44:28",
+          "updated_at": "2019-02-06 16:44:28"
+        }
+      },
+      {
+        "id": 14944,
+        "filename": "EDITAL TP 001-19  -  Playgraud SESP - REFORMULADO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "972077",
+        "created_at": "2019-02-06 16:44:00",
+        "updated_at": "2019-02-06 16:44:00",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/329946b5b8eec2c4bf4b7540cd8795ff78f0f600.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 14944,
+          "created_at": "2019-02-06 16:44:28",
+          "updated_at": "2019-02-06 16:44:28"
+        }
+      },
+      {
+        "id": 15186,
+        "filename": "ESCLARECIMENTO DA TP-01-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "45769",
+        "created_at": "2019-02-14 14:57:48",
+        "updated_at": "2019-02-14 14:57:48",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/c226802560afa04d51f5cd4c82178b67cacae734.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 15186,
+          "created_at": "2019-02-14 14:57:54",
+          "updated_at": "2019-02-14 14:57:54"
+        }
+      },
+      {
+        "id": 15200,
+        "filename": "JULGAMENTO DE IMPUGNAÇÃO TP 001-2019.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "405818",
+        "created_at": "2019-02-15 11:20:18",
+        "updated_at": "2019-02-15 11:20:18",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/066baac61eeba3d96381ade5b699fb43c4ef633a.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 15200,
+          "created_at": "2019-02-15 11:20:21",
+          "updated_at": "2019-02-15 11:20:21"
+        }
+      },
+      {
+        "id": 15210,
+        "filename": "Resposta a IMPUGNAÇÃO TP 001-2019 02.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "274278",
+        "created_at": "2019-02-15 16:09:33",
+        "updated_at": "2019-02-15 16:09:33",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/115fefea2c084a0f0b71baae041af952e7d7d7b1.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 15210,
+          "created_at": "2019-02-15 16:09:38",
+          "updated_at": "2019-02-15 16:09:38"
+        }
+      },
+      {
+        "id": 15280,
+        "filename": "AVISO DE SUSPENSÃO DA TP 001-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "39735",
+        "created_at": "2019-02-20 16:38:25",
+        "updated_at": "2019-02-20 16:38:25",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/9be5c1d01c6a3a64e96af1bacfa6920603e83050.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 15280,
+          "created_at": "2019-02-20 16:38:41",
+          "updated_at": "2019-02-20 16:38:41"
+        }
+      },
+      {
+        "id": 15531,
+        "filename": "JULGAMENTO DE IMPUGNAÇÃO DO EDITAL DA TP 001-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "151693",
+        "created_at": "2019-02-27 14:45:45",
+        "updated_at": "2019-02-27 14:45:45",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/a7b27a21b2cd7e1fb7c63311de84cf832291dc14.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 15531,
+          "created_at": "2019-02-27 14:45:52",
+          "updated_at": "2019-02-27 14:45:52"
+        }
+      },
+      {
+        "id": 15532,
+        "filename": "PARECER TECNICO RESPOSTA DA SOLICITAÇÃO DE IMPUGNAÇÃO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "61617",
+        "created_at": "2019-02-27 14:45:45",
+        "updated_at": "2019-02-27 14:45:45",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/9c4955ccf2ffd7719adb4b23904a0719a0b081a1.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 15532,
+          "created_at": "2019-02-27 14:45:52",
+          "updated_at": "2019-02-27 14:45:52"
+        }
+      },
+      {
+        "id": 15538,
+        "filename": "EDITAL TP 001-19  -  Playgraud SESP - REFORMULADO NOVA DATA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "970273",
+        "created_at": "2019-02-27 15:18:46",
+        "updated_at": "2019-02-27 15:18:46",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/3b8e33b4c5eaa189276d1d4727785617dc367625.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 15538,
+          "created_at": "2019-02-27 15:18:53",
+          "updated_at": "2019-02-27 15:18:53"
+        }
+      },
+      {
+        "id": 16017,
+        "filename": "ATA DE ABERTURA TP 001-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "50509",
+        "created_at": "2019-03-18 10:56:31",
+        "updated_at": "2019-03-18 10:56:31",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/bea76ae679eee509e23544e46b8c60f889e7c655.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 16017,
+          "created_at": "2019-03-18 10:56:53",
+          "updated_at": "2019-03-18 10:56:53"
+        }
+      },
+      {
+        "id": 16861,
+        "filename": "ATA DE REABERTURA DE ENVELOPE DE HABILITAÇÃO DA TP 001-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "342485",
+        "created_at": "2019-04-04 10:59:23",
+        "updated_at": "2019-04-04 10:59:23",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/a75a9e40dafc98defd95fb845653a2fc93e094fa.pdf",
+        "pivot": {
+          "licitacao_id": 5511,
+          "arquivo_id": 16861,
+          "created_at": "2019-04-04 10:59:29",
+          "updated_at": "2019-04-04 10:59:29"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5511'>Ver mais</a>"
+  },
+  {
+    "id": 5276,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "001/2019SA",
+    "numero_processo": "7320/2018",
+    "objeto": "Registro de preços para aquisição de medicamentos para atender as necessidades de toda rede Vinculada á Secretaria de Saúde do Município de Candeias.",
+    "orgao": "SECRETARIA DE SAÚDE DE CANDEIAS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2019-02-06 11:02:03",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-01-23 13:38:01",
+    "updated_at": "2019-02-25 11:02:03",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 1,
+    "lic_ano": 2019,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 1628,
+        "licitacao_id": 5276,
+        "objeto": "",
+        "vencedor": "",
+        "cnpj": "",
+        "valor": "0",
+        "created_at": "2019-02-20 16:40:35",
+        "updated_at": "2019-02-21 15:25:57",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13940,
+        "filename": "Edital PP 001-2019SA PROC. 7320-2018.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "997821",
+        "created_at": "2019-01-23 15:09:39",
+        "updated_at": "2019-01-23 15:09:39",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/77a523e1ecfbce8de5c9c38e36bb3a9fc3e5a24c.pdf",
+        "pivot": {
+          "licitacao_id": 5276,
+          "arquivo_id": 13940,
+          "created_at": "2019-01-23 15:09:44",
+          "updated_at": "2019-01-23 15:09:44"
+        }
+      },
+      {
+        "id": 14886,
+        "filename": "PEDIDO DE ESCLARECIMENTO PP 001-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "120425",
+        "created_at": "2019-02-05 14:37:49",
+        "updated_at": "2019-02-05 14:37:49",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/362bf2a0810853432fdc74a2a127b827504bb8aa.pdf",
+        "pivot": {
+          "licitacao_id": 5276,
+          "arquivo_id": 14886,
+          "created_at": "2019-02-05 14:38:00",
+          "updated_at": "2019-02-05 14:38:00"
+        }
+      },
+      {
+        "id": 14938,
+        "filename": "ATA DE ABERTURA-PP001-19SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "811829",
+        "created_at": "2019-02-06 15:02:40",
+        "updated_at": "2019-02-06 15:02:40",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/b465d01426b7b47061116a60ad4d22eb751ecc75.pdf",
+        "pivot": {
+          "licitacao_id": 5276,
+          "arquivo_id": 14938,
+          "created_at": "2019-02-06 15:02:45",
+          "updated_at": "2019-02-06 15:02:45"
+        }
+      },
+      {
+        "id": 15281,
+        "filename": "ATA DE JULGAMENTO DAS PROPOSTAS DE PREÇOS PP 001-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "128626",
+        "created_at": "2019-02-20 16:40:29",
+        "updated_at": "2019-02-20 16:40:29",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/d7fe8b03de1891ffc6e696616727899d345d6d2c.pdf",
+        "pivot": {
+          "licitacao_id": 5276,
+          "arquivo_id": 15281,
+          "created_at": "2019-02-20 16:40:36",
+          "updated_at": "2019-02-20 16:40:36"
+        }
+      },
+      {
+        "id": 15316,
+        "filename": "AVISOS DE REABERTURA PP 001, 002 e 003-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "188463",
+        "created_at": "2019-02-21 15:25:53",
+        "updated_at": "2019-02-21 15:25:53",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/12788cfb1dfc203abe76cca4cabc6a609a4a8212.pdf",
+        "pivot": {
+          "licitacao_id": 5276,
+          "arquivo_id": 15316,
+          "created_at": "2019-02-21 15:25:57",
+          "updated_at": "2019-02-21 15:25:57"
+        }
+      },
+      {
+        "id": 15440,
+        "filename": "ATA DE REABERTURA - PP 001-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4104770",
+        "created_at": "2019-02-25 11:01:59",
+        "updated_at": "2019-02-25 11:01:59",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2305c5de1c81fec9fe79728f48aeb6e9edc4e8ab.pdf",
+        "pivot": {
+          "licitacao_id": 5276,
+          "arquivo_id": 15440,
+          "created_at": "2019-02-25 11:02:03",
+          "updated_at": "2019-02-25 11:02:03"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5276'>Ver mais</a>"
+  },
+  {
+    "id": 5561,
+    "created_by": 37,
+    "modalidade_id": 1,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "001/2019",
+    "numero_processo": "0686/2019",
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM EXECUÇÃO DE OBRAS DE  PAVIMENTRAÇÃO EM PARALELEPIPEDO, NA RUAS CAMBOACI E OUTRAS, BAIRRO URBIS II, LOCALIZADAS NA SEDE DO MUNICÍPIO DE CANDEIAS-BA",
+    "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2019-03-15 12:03:40",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-02-12 15:27:17",
+    "updated_at": "2019-04-08 12:03:40",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS\r\n• Unidade Orçamentária\t10.01 - Secretaria Municipal de Infraestrutura e Obras\r\n• Unidade Gestora\t\t10 - Secretaria Municipal de Infraestrutura e Obras\r\n• Projeto/Atividade\t\t1.021 – Urbanização e Pavimentação de Vias Públicas\r\n• Elemento de Despesa \t4.4.90.51.00.00 – Obras e Instalações\r\n• Fonte de Recursos \t00.01.0000 – Recursos Ordinários- Tesouro e 00.01.0042 – Recursos Royalties\r\n",
+    "modalidade_descricao": "Concorrência",
+    "lic_numero": 1,
+    "lic_ano": 2019,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 1,
+      "descricao": "Concorrência",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 15078,
+        "filename": "EDITAL CP 001-19 - PAVIMENTAÇÃO URBIS II.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "738017",
+        "created_at": "2019-02-12 15:23:05",
+        "updated_at": "2019-02-12 15:23:05",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/f4df34246e87abc78cfd83bc23b5cf1c2e85bf10.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15078,
+          "created_at": "2019-02-12 15:27:17",
+          "updated_at": "2019-02-12 15:27:17"
+        }
+      },
+      {
+        "id": 15079,
+        "filename": "MEMORIAL DESCRITIVO URBIS II.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "776738",
+        "created_at": "2019-02-12 15:23:14",
+        "updated_at": "2019-02-12 15:23:14",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/7cf7951db5b110a813c3c6bdc9f05789be3e1694.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15079,
+          "created_at": "2019-02-12 15:27:17",
+          "updated_at": "2019-02-12 15:27:17"
+        }
+      },
+      {
+        "id": 15080,
+        "filename": "PLANILHA ORÇAMENTÁRIA - 128-2018_revisado_08.02.18 URBIS II.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "188628",
+        "created_at": "2019-02-12 15:23:20",
+        "updated_at": "2019-02-12 15:23:20",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/73827ccee2453a7af594f086556b0d1633089411.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15080,
+          "created_at": "2019-02-12 15:27:17",
+          "updated_at": "2019-02-12 15:27:17"
+        }
+      },
+      {
+        "id": 15081,
+        "filename": "Quadro de Composição do BDI - ATUAL.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "350582",
+        "created_at": "2019-02-12 15:23:38",
+        "updated_at": "2019-02-12 15:23:38",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2011d3a01e32ddaf5dac87e0696704559533ed5f.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15081,
+          "created_at": "2019-02-12 15:27:17",
+          "updated_at": "2019-02-12 15:27:17"
+        }
+      },
+      {
+        "id": 15082,
+        "filename": "CRONOGRAMA FÍSICO FINANCEIRO -  128-2018_revisado_08.02.18 URBIS II.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "207305",
+        "created_at": "2019-02-12 15:23:47",
+        "updated_at": "2019-02-12 15:23:47",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/7281b80d5df680b5f6509a7a1f9cec8133981ece.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15082,
+          "created_at": "2019-02-12 15:27:17",
+          "updated_at": "2019-02-12 15:27:17"
+        }
+      },
+      {
+        "id": 15139,
+        "filename": "PROJETOS.rar",
+        "mime_type": "application/octet-stream",
+        "filesize": "1148080",
+        "created_at": "2019-02-13 11:06:06",
+        "updated_at": "2019-02-13 11:06:06",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/377e897ed1f1d57f065f8427d49cea47daa56c57.rar",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15139,
+          "created_at": "2019-02-13 11:06:57",
+          "updated_at": "2019-02-13 11:06:57"
+        }
+      },
+      {
+        "id": 15140,
+        "filename": "SINALIZAÇÃO E ACESSIBILIDADE.rar",
+        "mime_type": "application/octet-stream",
+        "filesize": "8794558",
+        "created_at": "2019-02-13 11:06:14",
+        "updated_at": "2019-02-13 11:06:14",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/825a115ed83f954411beeb05266ffb9aaab70f72.rar",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15140,
+          "created_at": "2019-02-13 11:06:57",
+          "updated_at": "2019-02-13 11:06:57"
+        }
+      },
+      {
+        "id": 15141,
+        "filename": "TERRAPLANAGEM.rar",
+        "mime_type": "application/octet-stream",
+        "filesize": "12185270",
+        "created_at": "2019-02-13 11:06:24",
+        "updated_at": "2019-02-13 11:06:24",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/42473e50953e92afd37620538e3204a329645371.rar",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15141,
+          "created_at": "2019-02-13 11:06:57",
+          "updated_at": "2019-02-13 11:06:57"
+        }
+      },
+      {
+        "id": 15142,
+        "filename": "GEOMETRIA.rar",
+        "mime_type": "application/octet-stream",
+        "filesize": "6208106",
+        "created_at": "2019-02-13 11:06:45",
+        "updated_at": "2019-02-13 11:06:45",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/50ce5a68ddfbff689e35caab7277ddb5f8ea6063.rar",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15142,
+          "created_at": "2019-02-13 11:06:57",
+          "updated_at": "2019-02-13 11:06:57"
+        }
+      },
+      {
+        "id": 15505,
+        "filename": "ESCLARECIMENTO CP 0012019.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "33050",
+        "created_at": "2019-02-26 15:54:28",
+        "updated_at": "2019-02-26 15:54:28",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/e54e167f4114b131f5b5cc83ec5c295bbf14a928.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15505,
+          "created_at": "2019-02-26 15:57:26",
+          "updated_at": "2019-02-26 15:57:26"
+        }
+      },
+      {
+        "id": 15506,
+        "filename": "EDITAL CP 001-19 - PAVIMENTAÇÃO URBIS II REFORMULADO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "326424",
+        "created_at": "2019-02-26 15:57:21",
+        "updated_at": "2019-02-26 15:57:21",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/06510fffdde12bc68232f225050e18cc84f3c41c.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15506,
+          "created_at": "2019-02-26 15:57:27",
+          "updated_at": "2019-02-26 15:57:27"
+        }
+      },
+      {
+        "id": 15882,
+        "filename": "PLANILHA ORÇAMENTÁRIA  128-2018_revisado_08.02.18 URBIS II (ATUALIZADO).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "188625",
+        "created_at": "2019-03-13 10:28:01",
+        "updated_at": "2019-03-13 10:28:01",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/e57eb5912a7070348d1c2f84b7036360ff91dd39.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15882,
+          "created_at": "2019-03-13 10:28:05",
+          "updated_at": "2019-03-13 10:28:05"
+        }
+      },
+      {
+        "id": 15902,
+        "filename": "JULGAMENTO DE IMPUGNAÇÃO AO EDITAL CP 001-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "232955",
+        "created_at": "2019-03-13 15:51:37",
+        "updated_at": "2019-03-13 15:51:37",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/3b90a8828ce7665c0b81991bd1ff656d3fd8d3b2.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15902,
+          "created_at": "2019-03-13 15:51:41",
+          "updated_at": "2019-03-13 15:51:41"
+        }
+      },
+      {
+        "id": 15904,
+        "filename": "Esclarecimento CP 001-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "132049",
+        "created_at": "2019-03-13 16:00:47",
+        "updated_at": "2019-03-13 16:00:47",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2f3a593002b6d632f1ce291d23a2d34bce72eb5b.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 15904,
+          "created_at": "2019-03-13 16:00:54",
+          "updated_at": "2019-03-13 16:00:54"
+        }
+      },
+      {
+        "id": 16168,
+        "filename": "IMPUGNAÇÃO AO EDITAL DA CP 001-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "353556",
+        "created_at": "2019-03-20 10:04:36",
+        "updated_at": "2019-03-20 10:04:36",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/06d5ba824f419ea3c17f1b8d14ee684d8f81f7b1.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 16168,
+          "created_at": "2019-03-20 10:04:43",
+          "updated_at": "2019-03-20 10:04:43"
+        }
+      },
+      {
+        "id": 16267,
+        "filename": "ATA INTERNA DE JULGAMENTO DE PROPOSTA DE PREÇO DA CP 001-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "32965",
+        "created_at": "2019-03-22 09:09:50",
+        "updated_at": "2019-03-22 09:09:50",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1d874f911f6f7c5e0828f581f08807b5d20ee00a.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 16267,
+          "created_at": "2019-03-22 09:09:56",
+          "updated_at": "2019-03-22 09:09:56"
+        }
+      },
+      {
+        "id": 17025,
+        "filename": "ATA DE ABERTURA DO ENVELOPE DE HABILITAÇÃO CP 001-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "41458",
+        "created_at": "2019-04-08 12:03:36",
+        "updated_at": "2019-04-08 12:03:36",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/632a96051e720ff92ac53705c1a771481361f8fd.pdf",
+        "pivot": {
+          "licitacao_id": 5561,
+          "arquivo_id": 17025,
+          "created_at": "2019-04-08 12:03:40",
+          "updated_at": "2019-04-08 12:03:40"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5561'>Ver mais</a>"
+  },
+  {
+    "id": 9022,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "PP 032/2019SA",
+    "numero_processo": "6432/2019",
+    "objeto": "Registro de Preços para futura e eventual aquisição de medicamento com o objetivo de atender as necessidades da Secretaria de Saúde do Município de Candeias-Bahia.",
+    "orgao": "SECRETARIA MUNICIPAL DE SAÚDE",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Homologada",
+    "data_realizacao": "2019-09-12 10:54:52",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-08-29 10:02:50",
+    "updated_at": "2019-10-02 10:54:52",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 0,
+    "lic_ano": 2019,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 24693,
+        "filename": "Edital PP 032-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "897810",
+        "created_at": "2019-08-29 10:02:42",
+        "updated_at": "2019-08-29 10:02:42",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/5b7027b4c253a7d4efcc0f96bf9bb0928d78ab09.pdf",
+        "pivot": {
+          "licitacao_id": 9022,
+          "arquivo_id": 24693,
+          "created_at": "2019-08-29 10:02:50",
+          "updated_at": "2019-08-29 10:02:50"
+        }
+      },
+      {
+        "id": 25278,
+        "filename": "ATA PP 032-19SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "353853",
+        "created_at": "2019-09-13 11:54:34",
+        "updated_at": "2019-09-13 11:54:34",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/ebb675a138cc4924ccb22ec7790f33151508c42a.pdf",
+        "pivot": {
+          "licitacao_id": 9022,
+          "arquivo_id": 25278,
+          "created_at": "2019-09-13 11:54:39",
+          "updated_at": "2019-09-13 11:54:39"
+        }
+      },
+      {
+        "id": 25338,
+        "filename": "ERRATA DA ATA 032.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "129847",
+        "created_at": "2019-09-16 11:30:47",
+        "updated_at": "2019-09-16 11:30:47",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/5b1d4eae0e06cda7aeb9abfa5038b965d80fcdca.pdf",
+        "pivot": {
+          "licitacao_id": 9022,
+          "arquivo_id": 25338,
+          "created_at": "2019-09-16 11:30:52",
+          "updated_at": "2019-09-16 11:30:52"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/9022'>Ver mais</a>"
+  },
+  {
+    "id": 9024,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "PP 033/2019SA",
+    "numero_processo": "6292/2019SA",
+    "objeto": "Registro de Preços para futura e eventual aquisição de medicamento com o objetivo de atender as necessidades da Secretaria de Saúde do Município de Candeias-Bahia.",
+    "orgao": "SECRETARIA MUNICIPAL DE SAÚDE",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2019-09-12 16:20:38",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-08-29 10:06:43",
+    "updated_at": "2019-09-16 16:20:38",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 0,
+    "lic_ano": 2019,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 24694,
+        "filename": "Edital PP 033-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "940914",
+        "created_at": "2019-08-29 10:06:29",
+        "updated_at": "2019-08-29 10:06:29",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/f93e3c4a4d34f98770e2bddbd944ccff3fc37780.pdf",
+        "pivot": {
+          "licitacao_id": 9024,
+          "arquivo_id": 24694,
+          "created_at": "2019-08-29 10:06:43",
+          "updated_at": "2019-08-29 10:06:43"
+        }
+      },
+      {
+        "id": 25345,
+        "filename": "ATA DE ABERTURA DO PP033-19SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "533492",
+        "created_at": "2019-09-16 16:20:32",
+        "updated_at": "2019-09-16 16:20:32",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/ed0939ab341567d19197f7b695ecebac94e36dc1.pdf",
+        "pivot": {
+          "licitacao_id": 9024,
+          "arquivo_id": 25345,
+          "created_at": "2019-09-16 16:20:38",
+          "updated_at": "2019-09-16 16:20:38"
+        }
+      },
+      {
+        "id": 25346,
+        "filename": "ATA DE REABERTURA PP 033-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4357196",
+        "created_at": "2019-09-16 16:20:35",
+        "updated_at": "2019-09-16 16:20:35",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1e9857b9634bd70a1c6850a5235f8209fb6a73dc.pdf",
+        "pivot": {
+          "licitacao_id": 9024,
+          "arquivo_id": 25346,
+          "created_at": "2019-09-16 16:20:38",
+          "updated_at": "2019-09-16 16:20:38"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/9024'>Ver mais</a>"
+  },
+  {
+    "id": 9025,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "PP 034/2019SA",
+    "numero_processo": "6434/2019",
+    "objeto": "Registro de Preços para futura e eventual aquisição de medicamento com o objetivo de atender as necessidades da Secretaria de Saúde do Município de Candeias-Bahia.",
+    "orgao": "SECRETARIA MUNICIPAL DE SAÚDE",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2019-09-12 11:53:22",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-08-29 10:09:00",
+    "updated_at": "2019-09-17 11:53:22",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 0,
+    "lic_ano": 2019,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 24695,
+        "filename": "Edital PP 034-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "900607",
+        "created_at": "2019-08-29 10:08:11",
+        "updated_at": "2019-08-29 10:08:11",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/73617dd823844bb322ab4cdf822b3bee75cdcd45.pdf",
+        "pivot": {
+          "licitacao_id": 9025,
+          "arquivo_id": 24695,
+          "created_at": "2019-08-29 10:09:00",
+          "updated_at": "2019-08-29 10:09:00"
+        }
+      },
+      {
+        "id": 25340,
+        "filename": "ATA DE ABERTURA PP 034-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "2241563",
+        "created_at": "2019-09-16 11:40:31",
+        "updated_at": "2019-09-16 11:40:31",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/08a1cb438175eca964d3ac1c4d254994f4bf4a89.pdf",
+        "pivot": {
+          "licitacao_id": 9025,
+          "arquivo_id": 25340,
+          "created_at": "2019-09-16 11:40:35",
+          "updated_at": "2019-09-16 11:40:35"
+        }
+      },
+      {
+        "id": 25351,
+        "filename": "ATA DE REABERTURA DO PP 034-19SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "262609",
+        "created_at": "2019-09-17 11:53:19",
+        "updated_at": "2019-09-17 11:53:19",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/ae41823ebebf6ed3dba1f53767c55bbf4d7d5e84.pdf",
+        "pivot": {
+          "licitacao_id": 9025,
+          "arquivo_id": 25351,
+          "created_at": "2019-09-17 11:53:22",
+          "updated_at": "2019-09-17 11:53:22"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/9025'>Ver mais</a>"
+  },
+  {
+    "id": 9026,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "PP 035/2019SA",
+    "numero_processo": "6441/2019",
+    "objeto": "Registro de Preços para futura e eventual aquisição de medicamento com o objetivo de atender as necessidades da Secretaria de Saúde do Município de Candeias-Bahia.",
+    "orgao": "SECRETARIA MUNICIPAL DE SAÚDE",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2019-09-13 15:58:24",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-08-29 10:15:45",
+    "updated_at": "2019-09-17 15:58:24",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 0,
+    "lic_ano": 2019,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 24696,
+        "filename": "Edital PP 035-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "942258",
+        "created_at": "2019-08-29 10:15:06",
+        "updated_at": "2019-08-29 10:15:06",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/fc63e270d9c133b3d314be39404442d3dcfe05a8.pdf",
+        "pivot": {
+          "licitacao_id": 9026,
+          "arquivo_id": 24696,
+          "created_at": "2019-08-29 10:15:45",
+          "updated_at": "2019-08-29 10:15:45"
+        }
+      },
+      {
+        "id": 25279,
+        "filename": "ATA DE ABERTURA PP 035.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "2467798",
+        "created_at": "2019-09-13 11:56:23",
+        "updated_at": "2019-09-13 11:56:23",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/6529784a3c5ede87b6aa6e5af9b83bce11078225.pdf",
+        "pivot": {
+          "licitacao_id": 9026,
+          "arquivo_id": 25279,
+          "created_at": "2019-09-13 11:56:55",
+          "updated_at": "2019-09-13 11:56:55"
+        }
+      },
+      {
+        "id": 25376,
+        "filename": "ATA DE REABERTURA PP 035-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "3682645",
+        "created_at": "2019-09-17 15:58:21",
+        "updated_at": "2019-09-17 15:58:21",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/b1b2a6dc1c5c18321f8916f8431cf4cda4b789db.pdf",
+        "pivot": {
+          "licitacao_id": 9026,
+          "arquivo_id": 25376,
+          "created_at": "2019-09-17 15:58:24",
+          "updated_at": "2019-09-17 15:58:24"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/9026'>Ver mais</a>"
+  },
+  {
+    "id": 9027,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "PP 036/2019SA",
+    "numero_processo": "6291/2019",
+    "objeto": "Registro de Preços para futura e eventual aquisição de medicamento com o objetivo de atender as necessidades da Secretaria de Saúde do Município de Candeias-Bahia.",
+    "orgao": "SECRETARIA MUNICIPAL DE SAÚDE",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2019-09-13 08:59:32",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-08-29 10:17:27",
+    "updated_at": "2019-10-02 08:59:32",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 0,
+    "lic_ano": 2019,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 24697,
+        "filename": "Edital PP 036-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "862187",
+        "created_at": "2019-08-29 10:16:48",
+        "updated_at": "2019-08-29 10:16:48",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/0d20049f6a85e17bec99bed519c0778f6e27fc68.pdf",
+        "pivot": {
+          "licitacao_id": 9027,
+          "arquivo_id": 24697,
+          "created_at": "2019-08-29 10:17:27",
+          "updated_at": "2019-08-29 10:17:27"
+        }
+      },
+      {
+        "id": 25341,
+        "filename": "ATA DE ABERTURA PP 036-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "2252242",
+        "created_at": "2019-09-16 11:42:13",
+        "updated_at": "2019-09-16 11:42:13",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/def22875361e793d4302fec39375cb2c0dd6051d.pdf",
+        "pivot": {
+          "licitacao_id": 9027,
+          "arquivo_id": 25341,
+          "created_at": "2019-09-16 11:42:16",
+          "updated_at": "2019-09-16 11:42:16"
+        }
+      },
+      {
+        "id": 25723,
+        "filename": "ATA DE REABERTURA PP 036-2019SA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "3612866",
+        "created_at": "2019-10-02 08:59:29",
+        "updated_at": "2019-10-02 08:59:29",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/26832d43598b068bc55e5fb437d2d38779a25e16.pdf",
+        "pivot": {
+          "licitacao_id": 9027,
+          "arquivo_id": 25723,
+          "created_at": "2019-10-02 08:59:32",
+          "updated_at": "2019-10-02 08:59:32"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/9027'>Ver mais</a>"
+  },
+  {
+    "id": 5150,
+    "created_by": 37,
+    "modalidade_id": 11,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "098/2018",
+    "numero_processo": "7024/2018",
+    "objeto": "ELABORAÇÃO DE REGISTRO DE PREÇO PARA FUTURAS CONTRATAÇÕES DE MATERIAL PEDAGÓGICO DE EXPEDIENTE, (PASTAS DIVERSAS), PARA ATENDER AS DEMANDAS DA SECRETARIA DE EDUCAÇÃO.",
+    "orgao": "SECRETARIA DE EDUCAÇÃO - SEDUC",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2019-01-15 09:44:14",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-01-03 14:51:47",
+    "updated_at": "2019-02-04 09:44:14",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Registro de Preços",
+    "lic_numero": 98,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 11,
+      "descricao": "Registro de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13391,
+        "filename": "EDITAL PP 0982018 - RP MATERIAL DE EXPEDIENTE (PASTAS DIVERSAS) (S).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "938087",
+        "created_at": "2019-01-03 14:50:57",
+        "updated_at": "2019-01-03 14:50:57",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/8cb6ae51678812ae70aa589ec2cdff0715a1b885.pdf",
+        "pivot": {
+          "licitacao_id": 5150,
+          "arquivo_id": 13391,
+          "created_at": "2019-01-03 14:51:47",
+          "updated_at": "2019-01-03 14:51:47"
+        }
+      },
+      {
+        "id": 13527,
+        "filename": "ATA DE ABERTURA DO 098-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "82036",
+        "created_at": "2019-01-15 10:41:11",
+        "updated_at": "2019-01-15 10:41:11",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/a43e571ed274666466ed936a8250eacf91c2d183.pdf",
+        "pivot": {
+          "licitacao_id": 5150,
+          "arquivo_id": 13527,
+          "created_at": "2019-01-15 10:41:27",
+          "updated_at": "2019-01-15 10:41:27"
+        }
+      },
+      {
+        "id": 13544,
+        "filename": "ESCLARECIMENTO PP 098-2018.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "233940",
+        "created_at": "2019-01-17 11:39:41",
+        "updated_at": "2019-01-17 11:39:41",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/c1552d93303a37cc9273224d6eb2cd5107081db2.pdf",
+        "pivot": {
+          "licitacao_id": 5150,
+          "arquivo_id": 13544,
+          "created_at": "2019-01-17 11:39:45",
+          "updated_at": "2019-01-17 11:39:45"
+        }
+      },
+      {
+        "id": 13561,
+        "filename": "EDITAL PP 0982018- RP MATERIAL DE EXPEDIENTE (PASTAS DIVERSAS) REFORMULADO (S).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "939046",
+        "created_at": "2019-01-18 13:57:47",
+        "updated_at": "2019-01-18 13:57:47",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/3626f767814fd0875bab2fcf7d59154edb74788a.pdf",
+        "pivot": {
+          "licitacao_id": 5150,
+          "arquivo_id": 13561,
+          "created_at": "2019-01-18 13:57:51",
+          "updated_at": "2019-01-18 13:57:51"
+        }
+      },
+      {
+        "id": 14705,
+        "filename": "ATA DE ABERTURA DO PP 098-18 NOVA DATA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "389326",
+        "created_at": "2019-01-31 11:47:46",
+        "updated_at": "2019-01-31 11:47:46",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/39e6df39cd7d7865166bda0a3d1484f7bdf9a511.pdf",
+        "pivot": {
+          "licitacao_id": 5150,
+          "arquivo_id": 14705,
+          "created_at": "2019-01-31 11:47:53",
+          "updated_at": "2019-01-31 11:47:53"
+        }
+      },
+      {
+        "id": 14775,
+        "filename": "ATA INTERNA DE JULGAMENTO FINAL DO PP 098-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "164554",
+        "created_at": "2019-02-04 09:44:10",
+        "updated_at": "2019-02-04 09:44:10",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/39ff09e30911794ad75af27a8f1e5ddc300056ae.pdf",
+        "pivot": {
+          "licitacao_id": 5150,
+          "arquivo_id": 14775,
+          "created_at": "2019-02-04 09:44:14",
+          "updated_at": "2019-02-04 09:44:14"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5150'>Ver mais</a>"
+  },
+  {
+    "id": 5149,
+    "created_by": 37,
+    "modalidade_id": 11,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "097/2018",
+    "numero_processo": "6238/2018",
+    "objeto": "ELABORAÇÃO DE REGISTRO DE PREÇOS PARA EVENTUAL AQUISIÇÃO DE EQUIPAMENTOS A SEREM UTILIZADOS POR TODAS AS SECRETARIAS PERTENCENTES À PREFEITURA MUNICIPAL DE CANDEIAS. ",
+    "orgao": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO – SECAD",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2019-01-14 14:19:25",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-01-03 14:50:38",
+    "updated_at": "2019-02-18 14:19:25",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Registro de Preços",
+    "lic_numero": 97,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 11,
+      "descricao": "Registro de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13390,
+        "filename": "EDITAL PP 0972018 RP- AQUISIÇÃO DE EQUIPAMENTOS  - PROCESSO 6238-18 (S).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "931077",
+        "created_at": "2019-01-03 14:49:44",
+        "updated_at": "2019-01-03 14:49:44",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/7813c5937a67cffc39b5c1e610dcddca82190eb7.pdf",
+        "pivot": {
+          "licitacao_id": 5149,
+          "arquivo_id": 13390,
+          "created_at": "2019-01-03 14:50:38",
+          "updated_at": "2019-01-03 14:50:38"
+        }
+      },
+      {
+        "id": 13565,
+        "filename": "ATA DE ABERTURA DO PP 097-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "214430",
+        "created_at": "2019-01-21 08:45:06",
+        "updated_at": "2019-01-21 08:45:06",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2d00c556ebfb571bf3a0496069355573f840a8b5.pdf",
+        "pivot": {
+          "licitacao_id": 5149,
+          "arquivo_id": 13565,
+          "created_at": "2019-01-21 08:45:12",
+          "updated_at": "2019-01-21 08:45:12"
+        }
+      },
+      {
+        "id": 15212,
+        "filename": "ATA DE REABERTURA DO PP 097-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "415489",
+        "created_at": "2019-02-18 11:44:22",
+        "updated_at": "2019-02-18 11:44:22",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/05495d12c0d0eedd2747b922e13658fcc9c23b27.pdf",
+        "pivot": {
+          "licitacao_id": 5149,
+          "arquivo_id": 15212,
+          "created_at": "2019-02-18 11:44:37",
+          "updated_at": "2019-02-18 11:44:37"
+        }
+      },
+      {
+        "id": 15214,
+        "filename": "ATA INTERNA DO PP 097-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "76549",
+        "created_at": "2019-02-18 14:19:20",
+        "updated_at": "2019-02-18 14:19:20",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/45243612aff2542fe5e465df8254c304fe52f5f5.pdf",
+        "pivot": {
+          "licitacao_id": 5149,
+          "arquivo_id": 15214,
+          "created_at": "2019-02-18 14:19:25",
+          "updated_at": "2019-02-18 14:19:25"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5149'>Ver mais</a>"
+  },
+  {
+    "id": 5148,
+    "created_by": 37,
+    "modalidade_id": 11,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "096/2018",
+    "numero_processo": "6239/2018",
+    "objeto": "ELABORAÇÃO DE REGISTRO DE PREÇOS PARA EVENTUAL AQUISIÇÃO DE UTENSÍLIOS (LIXEIRAS, CAIXAS PLÁSTICAS, PANELAS E MATERIAIS DE ALUMÍNIO) A SEREM UTILIZADOS POR TODAS AS SECRETARIAS PERTENCENTES À PREFEITURA MUNICIPAL DE CANDEIAS.",
+    "orgao": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO – SECAD",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2019-01-14 14:11:44",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2019-01-03 14:48:32",
+    "updated_at": "2019-02-22 14:11:44",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Registro de Preços",
+    "lic_numero": 96,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 11,
+      "descricao": "Registro de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13389,
+        "filename": "EDITAL PP 0962018 RP - AQUISIÇÃO DE UTENSÍLIOS - PROCESSO 6239-18 (S).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "947047",
+        "created_at": "2019-01-03 14:46:56",
+        "updated_at": "2019-01-03 14:46:56",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/34ea3d70f9737c14679e6d10d1f5384fe0c0f0af.pdf",
+        "pivot": {
+          "licitacao_id": 5148,
+          "arquivo_id": 13389,
+          "created_at": "2019-01-03 14:48:32",
+          "updated_at": "2019-01-03 14:48:32"
+        }
+      },
+      {
+        "id": 13559,
+        "filename": "RECURSO ADMINISTRATIVO AO PP 096-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "286902",
+        "created_at": "2019-01-18 10:57:47",
+        "updated_at": "2019-01-18 10:57:47",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/095eedd8317d3dabba5f17851bac6deed54a2767.pdf",
+        "pivot": {
+          "licitacao_id": 5148,
+          "arquivo_id": 13559,
+          "created_at": "2019-01-18 10:57:55",
+          "updated_at": "2019-01-18 10:57:55"
+        }
+      },
+      {
+        "id": 13566,
+        "filename": "ATA DE ABERTURA DO PP 096-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "725753",
+        "created_at": "2019-01-21 10:02:20",
+        "updated_at": "2019-01-21 10:02:20",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/faee52256aebfecb36e0da9a9950345c521d0692.pdf",
+        "pivot": {
+          "licitacao_id": 5148,
+          "arquivo_id": 13566,
+          "created_at": "2019-01-21 10:02:25",
+          "updated_at": "2019-01-21 10:02:25"
+        }
+      },
+      {
+        "id": 14777,
+        "filename": "ATA DE JULGAMENTO DE RECURSO DA PP 096-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "153023",
+        "created_at": "2019-02-04 09:45:22",
+        "updated_at": "2019-02-04 09:45:22",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/be4c9f350ed56dd1c00393ff72aad11bcdc4ee32.pdf",
+        "pivot": {
+          "licitacao_id": 5148,
+          "arquivo_id": 14777,
+          "created_at": "2019-02-04 09:45:34",
+          "updated_at": "2019-02-04 09:45:34"
+        }
+      },
+      {
+        "id": 14939,
+        "filename": "JULGAMENTO DE RECURSO DO PP 096-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "51665",
+        "created_at": "2019-02-06 15:05:35",
+        "updated_at": "2019-02-06 15:05:35",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/51c4067187031888d44b2041ff4b257e16a9b165.pdf",
+        "pivot": {
+          "licitacao_id": 5148,
+          "arquivo_id": 14939,
+          "created_at": "2019-02-06 15:05:53",
+          "updated_at": "2019-02-06 15:05:53"
+        }
+      },
+      {
+        "id": 15369,
+        "filename": "ATA INTERNA DE JULGAMENTO FINAL DO PP 096-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "340204",
+        "created_at": "2019-02-22 14:11:32",
+        "updated_at": "2019-02-22 14:11:32",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/90ef05ad82f83515ce828b8dc108ba4748c2aef7.pdf",
+        "pivot": {
+          "licitacao_id": 5148,
+          "arquivo_id": 15369,
+          "created_at": "2019-02-22 14:11:44",
+          "updated_at": "2019-02-22 14:11:44"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5148'>Ver mais</a>"
+  },
+  {
+    "id": 5132,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "095/2018",
+    "numero_processo": "6146/18",
+    "objeto": "Contratação de empresa especializada para prestação de serviços contínuos de manutenção preventiva e corretiva nos veículos leves e pesados automotores da frota oficial do Município de Candeias, compreendendo serviços mecânicos, serviços hidráulicos, elétrico-eletrônicos, vidraçaria, troca de lubrificantes, fluídos de freio e filtros, com fornecimento de peças, materiais e mão de obra, de acordo com as condições e especificações, para manutenção dos veículos, conforme condições, quantidades e exigências estabelecidas neste Termo de Referência e em seus anexos.",
+    "orgao": "SECRETARIA MUNICIPAL DE SAÚDE;SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL-SEDAS;SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS - SESP; SECRETARIA MUNICIPAL DE EDUCAÇÃO;",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": null,
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-12-20 18:24:11",
+    "updated_at": "2018-12-20 18:24:11",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE EDUCAÇÃO\r\n• Unidade Orçamentária\t18.01 - Secretaria Municipal de Educação\r\n• Unidade Gestora\t\t18 - Secretaria Municipal de Educação\r\n• Projeto/Atividade\t\t2065 – Gestão das Ações da SEDUC\r\n\t\t\t\t2072 – Gestão das Ações de Prog. De Trnas. Escolar da Educação Básica\r\n• Elemento de Despesa \t3390.39.00.00 – Outros Serviços de Terceiros – PJ\r\n\t\t\t\t3390.30.00.00 – Material de Consumo\r\n\t• Fonte de Recursos \t00.01.0001 – Receitas de Impostos e Transferências de Impostos-Educação 25%\r\n\t\t\t\t00.01.0015 – Transf. De Recursos do Fundo Nacional de Desenv. Da Educação - FNDE\r\n\r\nSECRETARIA MUNICIPAL DE SAÚDE\r\n• Unidade Orçamentária\t20.02 - Fundo Municipal de Saúde de Candeias\r\n• Unidade Gestora\t\t20 - Secretaria Municipal de Saúde\r\n• Projeto/Atividade\t\t2090 – Gestão das Ações Administrativas da SESAU\r\n\t• Elemento de Despesa \t3390.39.00.00 – Outros Serviços de Terceiros – PJ\r\n\t\t\t\t3390.30.00.00 – Material de Consumo\r\n\t• Fonte de Recursos \t00.02.0000 – Recursos Próprios\r\n\t\t\t\t \r\nSECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL-SEDAS\r\n\r\n•\tUnidade Orçamentária\t09-Secretaria de Desev. e Assistência Social-SEDAS  \r\n•\tUnidade Gestora\t\t09.01 – Secretaria de Desev. e Assistência Social-SEDAS  \r\n•\tFuncional                             08.244.0008 – Assistência Comunitária\r\n•\tProjeto/Atividade\t\t2.109 – Gestão das Ações Administrativas da SEDAS\r\n•\tElemento de Despesa \t33.90.30.00.00 – Material de Consumo\r\n                                              3390.39.00.00 – Outros Serviços de Terceiros – PJ\r\nFonte de Recursos   \t00.01.0000 – Recursos Ordinários - Tesouro\r\n\r\nSECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS - SESP\r\n• Unidade Orçamentária\t11 – Secretaria de Serviços Públicos - SESP\r\n• Unidade Gestora\t\t11.01 - Secretaria de Serviços Públicos - SESP\r\n• Projeto/Atividade\t\t2047 – Gestão das Ações Administrativas da SESP\r\n• Elemento de Despesa \t33.90.30.00.00 – Material de Consumo\r\n                                           33.90.39.00.00- Outros Serviços de Terceiro- PJ\r\n• Fonte de Recursos \t00.01.0000 – Recursos Ordinários - Tesouro\r\n\r\n",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 95,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13360,
+        "filename": "EDITAL  0952018 - MANUTENCAO DE VEICULOS (C).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "401511",
+        "created_at": "2018-12-20 18:19:21",
+        "updated_at": "2018-12-20 18:19:21",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/af4e6b11c56b09f0bed33a9fdf3673202642e1e0.pdf",
+        "pivot": {
+          "licitacao_id": 5132,
+          "arquivo_id": 13360,
+          "created_at": "2018-12-20 18:24:12",
+          "updated_at": "2018-12-20 18:24:12"
+        }
+      },
+      {
+        "id": 13361,
+        "filename": "AVISO DE ADIAMENTO PP 0952018.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "9421",
+        "created_at": "2018-12-20 18:20:00",
+        "updated_at": "2018-12-20 18:20:00",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/a4640aa65a47dc3fdeb73dec52e0a9b888db5ada.pdf",
+        "pivot": {
+          "licitacao_id": 5132,
+          "arquivo_id": 13361,
+          "created_at": "2018-12-20 18:24:12",
+          "updated_at": "2018-12-20 18:24:12"
+        }
+      },
+      {
+        "id": 13362,
+        "filename": "EDITAL  0952018 - MANUTENCAO DE VEICULOS (C) NOVA DATA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "400859",
+        "created_at": "2018-12-20 18:20:46",
+        "updated_at": "2018-12-20 18:20:46",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/cd5f75ec690e54fdcee6a484bd34ef3923bfa05c.pdf",
+        "pivot": {
+          "licitacao_id": 5132,
+          "arquivo_id": 13362,
+          "created_at": "2018-12-20 18:24:12",
+          "updated_at": "2018-12-20 18:24:12"
+        }
+      },
+      {
+        "id": 13406,
+        "filename": "ATA DO PP 095-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "201036",
+        "created_at": "2019-01-08 11:56:19",
+        "updated_at": "2019-01-08 11:56:19",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/7a508eddca94e972abf151602768f5309fc272a9.pdf",
+        "pivot": {
+          "licitacao_id": 5132,
+          "arquivo_id": 13406,
+          "created_at": "2019-01-08 11:56:27",
+          "updated_at": "2019-01-08 11:56:27"
+        }
+      },
+      {
+        "id": 13630,
+        "filename": "ERRATA DA ATA DE ABERTURA DO PP 095-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "149506",
+        "created_at": "2019-01-22 11:52:56",
+        "updated_at": "2019-01-22 11:52:56",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/aab531835c49e5e5485fe0ed49be7a08de04fe57.pdf",
+        "pivot": {
+          "licitacao_id": 5132,
+          "arquivo_id": 13630,
+          "created_at": "2019-01-22 11:53:06",
+          "updated_at": "2019-01-22 11:53:06"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5132'>Ver mais</a>"
+  },
+  {
+    "id": 5107,
+    "created_by": 37,
+    "modalidade_id": 11,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "094/2018",
+    "numero_processo": "6800/2018",
+    "objeto": "ELABORAÇÃO DE REGISTRO DE PREÇOS PARA AQUISIÇÃO DE CAFÉ, LEITE E AÇUCAR PARA ATENDER AS DEMANDAS DAS UNIDADES DA ADMINISTRAÇÃO MUNICIPAL.",
+    "orgao": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO – SECAD",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2018-12-27 16:21:00",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-12-17 16:21:00",
+    "updated_at": "2018-12-17 16:21:00",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Registro de Preços",
+    "lic_numero": 94,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 11,
+      "descricao": "Registro de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13295,
+        "filename": "EDITAL PP  0942018 - RP AQUISIÇÃO DE AÇUCAR,CAFÉ E LEITE (S).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "914063",
+        "created_at": "2018-12-17 16:20:02",
+        "updated_at": "2018-12-17 16:20:02",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/fcf49f754a2e8031c4d68f22dcb9fcd969ce3fb7.pdf",
+        "pivot": {
+          "licitacao_id": 5107,
+          "arquivo_id": 13295,
+          "created_at": "2018-12-17 16:21:00",
+          "updated_at": "2018-12-17 16:21:00"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5107'>Ver mais</a>"
+  },
+  {
+    "id": 5101,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "093/2018",
+    "numero_processo": "4773/2018",
+    "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA AQUISIÇÃO DE KIT PARA PROGRAMA QUE SERÁ IMPLANTADO BEBE FELIZ, EM ATENDIMENTO AS CRIANÇAS CARENTES DE ATÉ 01 (UM) ANO NAS QUAIS FAZEM PARTE FAMÍLIAS CARENTES DO MUNICÍPIO DE CANDEIAS.",
+    "orgao": "SECRETARIA MUNICIPAL DE DESENVOLVIMETO E ASSISTENCIA SOCIAL- SEDAS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2018-12-19 09:30:09",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-12-07 09:44:02",
+    "updated_at": "2019-01-22 09:30:09",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL\r\n• Unidade Orçamentária\t09.01- Secretaria Municipal de Desenv. E Assistência social-Sedas\r\n• Unidade Gestora\t\t09 - Secretaria Municipal de Desenv. E Assistência social-Sedas\r\n• Projeto/Atividade\t\t2.109 – Gestão das Ações Administrativas da SEDAS\r\n• Elemento de Despesa \t3.3.90.32.00.00 – Material, Bem ou Serviço para Distribuição Gratuita\r\n• Fonte de Recursos \t00.01.0000 – Recursos Ordinários - Tesouro\r\n",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 93,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13245,
+        "filename": "EDITAL PP 0932018 - CONTRATAÇÃO DE PESSOA JURÍDICA PARA AQUISIÇÃO DE KIT BEBE FELIZ (S).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "705255",
+        "created_at": "2018-12-07 09:42:47",
+        "updated_at": "2018-12-07 09:42:47",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/8604b92898145d8eec0310f09d95bf8f918a5bbd.pdf",
+        "pivot": {
+          "licitacao_id": 5101,
+          "arquivo_id": 13245,
+          "created_at": "2018-12-07 09:44:03",
+          "updated_at": "2018-12-07 09:44:03"
+        }
+      },
+      {
+        "id": 13576,
+        "filename": "ATA DE ABERTURA DO PP 093-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "208784",
+        "created_at": "2019-01-21 16:02:42",
+        "updated_at": "2019-01-21 16:02:42",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/0e0d0c0fbe8d5586b2ab5b3ffd4046fe252019dc.pdf",
+        "pivot": {
+          "licitacao_id": 5101,
+          "arquivo_id": 13576,
+          "created_at": "2019-01-21 16:03:33",
+          "updated_at": "2019-01-21 16:03:33"
+        }
+      },
+      {
+        "id": 13577,
+        "filename": "ATA DE SESSÃO INTERNA DO PP 093-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "72480",
+        "created_at": "2019-01-21 16:02:52",
+        "updated_at": "2019-01-21 16:02:52",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/87d9b5bf0f9ce6cfa82759827bd613026a15c33b.pdf",
+        "pivot": {
+          "licitacao_id": 5101,
+          "arquivo_id": 13577,
+          "created_at": "2019-01-21 16:03:33",
+          "updated_at": "2019-01-21 16:03:33"
+        }
+      },
+      {
+        "id": 13593,
+        "filename": "SEGUNDA ATA DE SESSAO INTERNA DO PP 093-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "61685",
+        "created_at": "2019-01-22 09:27:45",
+        "updated_at": "2019-01-22 09:27:45",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/cc5929283b06a16d228370cd86a2f2e2d5174310.pdf",
+        "pivot": {
+          "licitacao_id": 5101,
+          "arquivo_id": 13593,
+          "created_at": "2019-01-22 09:30:09",
+          "updated_at": "2019-01-22 09:30:09"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5101'>Ver mais</a>"
+  },
+  {
+    "id": 5103,
+    "created_by": 37,
+    "modalidade_id": 11,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "092/2018",
+    "numero_processo": "7649/2018",
+    "objeto": "ELABORAÇÃO DE REGISTRO DE PREÇOS PARA AQUISIÇÃO DE KIT NATALIDADE EM ATENDIMENTO AS FAMÍLIAS CARENTES DO MUNICÍPIO DE CANDEIAS",
+    "orgao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Fracassada",
+    "data_realizacao": null,
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-12-07 10:29:46",
+    "updated_at": "2018-12-20 14:10:25",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Registro de Preços",
+    "lic_numero": 92,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 11,
+      "descricao": "Registro de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13250,
+        "filename": "EDITAL PP 0922018- PP - RP KIT NATALIDADE 1(C).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "659040",
+        "created_at": "2018-12-07 10:28:00",
+        "updated_at": "2018-12-07 10:28:00",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/48203fb13d238abc962c6c9f7b9e9c22564c835e.pdf",
+        "pivot": {
+          "licitacao_id": 5103,
+          "arquivo_id": 13250,
+          "created_at": "2018-12-07 10:29:46",
+          "updated_at": "2018-12-07 10:29:46"
+        }
+      },
+      {
+        "id": 13352,
+        "filename": "ATA INTERNA DO PP 092-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "59736",
+        "created_at": "2018-12-20 14:10:05",
+        "updated_at": "2018-12-20 14:10:05",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2825e00653b42b09544b3a9bcd922300d9eb39f3.pdf",
+        "pivot": {
+          "licitacao_id": 5103,
+          "arquivo_id": 13352,
+          "created_at": "2018-12-20 14:10:26",
+          "updated_at": "2018-12-20 14:10:26"
+        }
+      },
+      {
+        "id": 13353,
+        "filename": "ATA DE ABERTURA DO PP 092-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "226538",
+        "created_at": "2018-12-20 14:10:20",
+        "updated_at": "2018-12-20 14:10:20",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/f68c9fb597697d146b68daeea74a14afbd1ea92c.pdf",
+        "pivot": {
+          "licitacao_id": 5103,
+          "arquivo_id": 13353,
+          "created_at": "2018-12-20 14:10:26",
+          "updated_at": "2018-12-20 14:10:26"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5103'>Ver mais</a>"
+  },
+  {
+    "id": 5099,
+    "created_by": 37,
+    "modalidade_id": 11,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "091/2018",
+    "numero_processo": "6240/2018",
+    "objeto": "ELABORAÇÃO DE REGISTRO DE PREÇOS PARA EVENTUAL AQUISIÇÃO DE UTENSÍLIOS (BALANÇA, GARRAFA TÉRMICA, TERMÔMETROS, MATERIAL INOX E VIDRO) A SEREM UTILIZADOS POR TODAS AS SECRETARIAS PERTENCENTES À PREFEITURA MUNICIPAL DE CANDEIAS. ",
+    "orgao": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO – SECAD",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2018-12-13 11:10:14",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-12-05 11:10:14",
+    "updated_at": "2018-12-05 11:10:14",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Registro de Preços",
+    "lic_numero": 91,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 11,
+      "descricao": "Registro de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13236,
+        "filename": "EDITAL PP  0912018 - RP AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS (BALANÇA, GARRAFA TÉRMICA, TERMÔMETROS, MATERIAL INOX E VIDRO) (S).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "980004",
+        "created_at": "2018-12-05 11:09:15",
+        "updated_at": "2018-12-05 11:09:15",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/ad74cf84aa5970e99bcffccaa0da0e01bdb03c35.pdf",
+        "pivot": {
+          "licitacao_id": 5099,
+          "arquivo_id": 13236,
+          "created_at": "2018-12-05 11:10:14",
+          "updated_at": "2018-12-05 11:10:14"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5099'>Ver mais</a>"
+  },
+  {
+    "id": 5096,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "090/2018",
+    "numero_processo": "7683/18",
+    "objeto": "AQUISIÇÃO DE CESTAS NATALINAS PARA ATENDER FAMÍLIAS DE BAIXA RENDA NO MUNICÍPIO DE CANDEIAS",
+    "orgao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": null,
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-11-30 14:29:45",
+    "updated_at": "2018-12-07 11:01:38",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL\r\n• Unidade Orçamentária\t09.01 – Secretaria de Desenvolvimento e Assistência Social\r\n• Unidade Gestora\t\t09 - Secretaria de Desenvolvimento e Assistência Social\r\n• Projeto/Atividade\t\t2109 – Gestão das Ações Administrativas da SEDAS\r\n• Elemento de Despesa \t3390.32.00.00 – Material, Bem ou Serviço para Distribuição Gratuita\r\n• Fonte de Recursos \t00.01.0000 – Recursos Ordinários\r\n\r\n\r\n",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 90,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13204,
+        "filename": "EDITAL PP 0902018- AQUISIÇÃO KIT CESTA NATALINA (C).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "290967",
+        "created_at": "2018-11-30 14:28:12",
+        "updated_at": "2018-11-30 14:28:12",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/fb55233ac15b3e61db67c506b450ecdf697ac28d.pdf",
+        "pivot": {
+          "licitacao_id": 5096,
+          "arquivo_id": 13204,
+          "created_at": "2018-11-30 14:29:45",
+          "updated_at": "2018-11-30 14:29:45"
+        }
+      },
+      {
+        "id": 13252,
+        "filename": "ESCLARECIMENTO PP 0902018 CESTA NATALINA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "20734",
+        "created_at": "2018-12-07 11:01:11",
+        "updated_at": "2018-12-07 11:01:11",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/391e5620f868b1bdc589b502b304aea09814794f.pdf",
+        "pivot": {
+          "licitacao_id": 5096,
+          "arquivo_id": 13252,
+          "created_at": "2018-12-07 11:01:38",
+          "updated_at": "2018-12-07 11:01:38"
+        }
+      },
+      {
+        "id": 13269,
+        "filename": "AVISO DE REABERTURA PP 090018 - CESTAS NATALINAS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "10992",
+        "created_at": "2018-12-12 17:22:14",
+        "updated_at": "2018-12-12 17:22:14",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/e09ee1b2acba38429da34b207a93e6356c39d671.pdf",
+        "pivot": {
+          "licitacao_id": 5096,
+          "arquivo_id": 13269,
+          "created_at": "2018-12-12 17:23:04",
+          "updated_at": "2018-12-12 17:23:04"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5096'>Ver mais</a>"
+  },
+  {
+    "id": 5097,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "089/2018",
+    "numero_processo": "3992/18",
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇO DE ARBITRAGEM PARA ATENDER TODAS AS ATIVIDADES ESPORTIVAS DESENVOLVIDAS PELA SECRETARIA DE ESPORTE E LAZER",
+    "orgao": "SECRETARIA MUNICIPAL DE ESPORTE E LAZER",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": null,
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-11-30 14:34:19",
+    "updated_at": "2018-11-30 14:34:19",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE ESPORTE E LAZER\r\n• Unidade Orçamentária\t14.01 - Secretaria Municipal de Esporte e Lazer\r\n• Unidade Gestora\t\t14 - Secretaria Municipal de Esporte e Lazer\r\n• Projeto/Atividade\t\t2.120 – Gestão Administrativas da SELSLA\r\n• Elemento de Despesa \t3.3.90.39.00.00 – Material de consumo\r\n• Fonte de Recursos \t00.01.000–Recursos Ordinários- Tesouro\r\n",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 89,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13205,
+        "filename": "EDITAL  PP 0892018 - SERVIÇO DE ARBITRAGEM( C).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "269473",
+        "created_at": "2018-11-30 14:34:13",
+        "updated_at": "2018-11-30 14:34:13",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/f239f63f4f04ab65783233d7d94ded2370cac1fc.pdf",
+        "pivot": {
+          "licitacao_id": 5097,
+          "arquivo_id": 13205,
+          "created_at": "2018-11-30 14:34:19",
+          "updated_at": "2018-11-30 14:34:19"
+        }
+      },
+      {
+        "id": 13300,
+        "filename": "ATA DE ABERTURA DO PP 089-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "121409",
+        "created_at": "2018-12-18 10:37:40",
+        "updated_at": "2018-12-18 10:37:40",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2d3175674da80dfe68b9c7d55c6016b82e2c506f.pdf",
+        "pivot": {
+          "licitacao_id": 5097,
+          "arquivo_id": 13300,
+          "created_at": "2018-12-18 10:37:45",
+          "updated_at": "2018-12-18 10:37:45"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5097'>Ver mais</a>"
+  },
+  {
+    "id": 5079,
+    "created_by": 37,
+    "modalidade_id": 11,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "088/2018",
+    "numero_processo": "4306/2018",
+    "objeto": "ELABORAÇÃO DE REGISTRO DE PREÇO PARA FORNECIMENTO DE CESTAS BÁSICAS PARA ATENDER DEMANDAS DA SECRETARIA DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL DO MUNICÍPIO DE CANDEIAS.",
+    "orgao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL - SEDAS ",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2018-12-27 09:30:51",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-11-20 11:22:52",
+    "updated_at": "2019-01-22 09:30:51",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Registro de Preços",
+    "lic_numero": 88,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 11,
+      "descricao": "Registro de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13113,
+        "filename": "EDITAL PP 0882018 -  RP AQUISIÇÃO DE CESTAS BÁSICAS (S).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "1102433",
+        "created_at": "2018-11-20 11:21:34",
+        "updated_at": "2018-11-20 11:21:34",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/65470a06b3a209a27925d6c5b8eb4d580af0275d.pdf",
+        "pivot": {
+          "licitacao_id": 5079,
+          "arquivo_id": 13113,
+          "created_at": "2018-11-20 11:22:52",
+          "updated_at": "2018-11-20 11:22:52"
+        }
+      },
+      {
+        "id": 13190,
+        "filename": "EDITAL PP  0882018 -  RP AQUISIÇÃO DE CESTAS BÁSICAS REFORMULADO (S).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "1100776",
+        "created_at": "2018-11-29 14:47:31",
+        "updated_at": "2018-11-29 14:47:31",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/9e848ead68ef0517efbf18f78a507e7fdb0c89b1.pdf",
+        "pivot": {
+          "licitacao_id": 5079,
+          "arquivo_id": 13190,
+          "created_at": "2018-11-29 14:47:50",
+          "updated_at": "2018-11-29 14:47:50"
+        }
+      },
+      {
+        "id": 13297,
+        "filename": "EDITAL PP 0882018 -  RP AQUISIÇÃO DE CESTAS BÁSICAS ATUALIZADO (S).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "1097434",
+        "created_at": "2018-12-17 16:52:16",
+        "updated_at": "2018-12-17 16:52:16",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/ec72e531ee588216483f67c708fb66c410e64b89.pdf",
+        "pivot": {
+          "licitacao_id": 5079,
+          "arquivo_id": 13297,
+          "created_at": "2018-12-17 16:52:20",
+          "updated_at": "2018-12-17 16:52:20"
+        }
+      },
+      {
+        "id": 13571,
+        "filename": "JULGAMENTO DE RECURSO DO PP 088-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "264510",
+        "created_at": "2019-01-21 14:36:54",
+        "updated_at": "2019-01-21 14:36:54",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/ef0a112a5762a1824496e2448732f9efc9c38905.pdf",
+        "pivot": {
+          "licitacao_id": 5079,
+          "arquivo_id": 13571,
+          "created_at": "2019-01-21 14:37:08",
+          "updated_at": "2019-01-21 14:37:08"
+        }
+      },
+      {
+        "id": 13572,
+        "filename": "RECURSO ADM AO PP 088-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "485632",
+        "created_at": "2019-01-21 14:36:55",
+        "updated_at": "2019-01-21 14:36:55",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/9c99f557105a419ede0517b538c4d58f6be15751.pdf",
+        "pivot": {
+          "licitacao_id": 5079,
+          "arquivo_id": 13572,
+          "created_at": "2019-01-21 14:37:08",
+          "updated_at": "2019-01-21 14:37:08"
+        }
+      },
+      {
+        "id": 13594,
+        "filename": "ATA DE SESSAO INTERNA DO PP 088-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "67175",
+        "created_at": "2019-01-22 09:30:36",
+        "updated_at": "2019-01-22 09:30:36",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/c047b53fb86bd1f0c5c975f5276063a06466bb39.pdf",
+        "pivot": {
+          "licitacao_id": 5079,
+          "arquivo_id": 13594,
+          "created_at": "2019-01-22 09:30:51",
+          "updated_at": "2019-01-22 09:30:51"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5079'>Ver mais</a>"
+  },
+  {
+    "id": 5080,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "087/2018",
+    "numero_processo": "7226/2018",
+    "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO E OPERAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA MANUTENÇÃO E CONSERVAÇÃO DE VIAS DE TERRA, REALIZAÇÃO DE SERVIÇOS GERAIS DE TERRAPLENAGEM, TANTO PREVENTIVA COMO CORRETIVA NA MALHA VIÁRIA DESPROVIDA DE PAVIMENTAÇÃO E/OU COMO APOIO AOS SERVIÇOS GERAIS DE INFRA-ESTRUTURA, LIMPEZA DE CANAIS E CÓRREGOS NO MUNICÍPIO DE CANDEIAS BA.",
+    "orgao": "SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS/SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2018-12-03 09:26:14",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-11-21 11:53:06",
+    "updated_at": "2019-01-10 09:26:14",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS \r\n• Unidade Orçamentária\t10.01 - Secretaria Municipal de Infraestrutura e Obras - SEINFO\r\n• Unidade Gestora\t\t10 - Secretaria Municipal de Infraestrutura e Obras - SEINFO\r\n• Projeto/Atividade\t\t2.038 – Gestão das Ações de Infra-estrutura\r\n• Elemento de Despesa \t3.3.90.39.00.00 – Outros Serviços de Terceiros - PJ\r\n\t• Fonte de Recursos \t00.01.0000 – Recursos Ordinários - Tesouro\r\n\t\r\nSECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS\r\n• Unidade Orçamentária\t11.01 - Secretaria Municipal de Serviços Públicos - SESP\r\n• Unidade Gestora\t\t11 - Secretaria Municipal de Serviços Públicos - SESP\r\n• Projeto/Atividade\t\t2.113 – Manutenção dos Serviços Técnicos e Administrativos - SESP\r\n• Elemento de Despesa \t3.3.90.39.00.00 – Outros Serviços de Terceiros - PJ\r\n\t• Fonte de Recursos \t00.01.0000 – Recursos Ordinários - Tesouro\r\n",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 87,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13123,
+        "filename": "EDITAL PP 0872018 - CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE MAQUINAS E EQUIPAMENTOS - SEINFO (S).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "821423",
+        "created_at": "2018-11-21 11:51:26",
+        "updated_at": "2018-11-21 11:51:26",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/00097416dd3796ec83b6d2ec259f564b4a2652cc.pdf",
+        "pivot": {
+          "licitacao_id": 5080,
+          "arquivo_id": 13123,
+          "created_at": "2018-11-21 11:53:06",
+          "updated_at": "2018-11-21 11:53:06"
+        }
+      },
+      {
+        "id": 13393,
+        "filename": "ATA DE ABERTURA PP 0872018.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "1042816",
+        "created_at": "2019-01-04 11:36:38",
+        "updated_at": "2019-01-04 11:36:38",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2aabacaa2a546c97807bd9a12a61c87555fb487d.pdf",
+        "pivot": {
+          "licitacao_id": 5080,
+          "arquivo_id": 13393,
+          "created_at": "2019-01-04 11:36:46",
+          "updated_at": "2019-01-04 11:36:46"
+        }
+      },
+      {
+        "id": 13394,
+        "filename": "AVISO DE REABERTURA PP 0872018.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "11619",
+        "created_at": "2019-01-04 13:39:29",
+        "updated_at": "2019-01-04 13:39:29",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/17ff847429ed610c1b09be47a4b02ff767619674.pdf",
+        "pivot": {
+          "licitacao_id": 5080,
+          "arquivo_id": 13394,
+          "created_at": "2019-01-04 13:39:52",
+          "updated_at": "2019-01-04 13:39:52"
+        }
+      },
+      {
+        "id": 13414,
+        "filename": "ATA DE REABERTURA DO PP 087-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "340499",
+        "created_at": "2019-01-10 09:26:10",
+        "updated_at": "2019-01-10 09:26:10",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2ba2ab6013abd06f51c44a6b795628c88c097176.pdf",
+        "pivot": {
+          "licitacao_id": 5080,
+          "arquivo_id": 13414,
+          "created_at": "2019-01-10 09:26:14",
+          "updated_at": "2019-01-10 09:26:14"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5080'>Ver mais</a>"
+  },
+  {
+    "id": 5078,
+    "created_by": 37,
+    "modalidade_id": 11,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "086/2018",
+    "numero_processo": "3480/2018",
+    "objeto": "REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MATERIAIS ESPORTIVOS DIVERSOS E ACESSÓRIOS PARA ATENDER AS COMPETIÇÕES E EVENTOS REALIZADOS E/OU APOIADOS PELA SECRETARIA MUNICIPAL DE ESPORTE E LAZER.",
+    "orgao": "SECRETARIA DE ESPORTE E LAZER - SESLA",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2018-11-26 12:15:20",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-11-14 12:15:20",
+    "updated_at": "2018-11-14 12:15:20",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Registro de Preços",
+    "lic_numero": 86,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 11,
+      "descricao": "Registro de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13094,
+        "filename": "EDITAL PP  086-2018 - RP AQUISIÇÃO DE MATERIAIS ESPORTIVOS (S).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "1167783",
+        "created_at": "2018-11-14 12:14:15",
+        "updated_at": "2018-11-14 12:14:15",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/d7024fafcc914832ffc585676da96fb58cd34c6d.pdf",
+        "pivot": {
+          "licitacao_id": 5078,
+          "arquivo_id": 13094,
+          "created_at": "2018-11-14 12:15:20",
+          "updated_at": "2018-11-14 12:15:20"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5078'>Ver mais</a>"
+  },
+  {
+    "id": 5051,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "085/2018",
+    "numero_processo": "6483/18",
+    "objeto": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO\r\n\r\n• Unidade Orçamentária\t06 – Secretaria de Administração - SECAD\r\n• Unidade Gestora\t\t06.01 – Secretaria de Administração - SECAD\r\n• Projeto/Atividade\t\t2.097 – Gestão das Ações Administrativas da SECAD\r\n• Elemento de Despesa \t3390.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica\r\n• Fonte de Recursos \t00.01.0000 – Recursos Ordinários - Tesouro\r\n\r\n",
+    "orgao": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": null,
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-11-09 17:48:38",
+    "updated_at": "2018-11-09 17:48:38",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 85,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13005,
+        "filename": "EDITAL PP 0852018 - RECARGA DE CARTUCHO( C).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "314722",
+        "created_at": "2018-11-09 17:48:22",
+        "updated_at": "2018-11-09 17:48:22",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/3c97307b57adaa3942cc4b6db1c79d493b432786.pdf",
+        "pivot": {
+          "licitacao_id": 5051,
+          "arquivo_id": 13005,
+          "created_at": "2018-11-09 17:48:38",
+          "updated_at": "2018-11-09 17:48:38"
+        }
+      },
+      {
+        "id": 13400,
+        "filename": "ATA DO PP 085-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "295214",
+        "created_at": "2019-01-07 15:13:49",
+        "updated_at": "2019-01-07 15:13:49",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/5badd6b8cc9f524848eb0227d77a55909c2fdfd8.pdf",
+        "pivot": {
+          "licitacao_id": 5051,
+          "arquivo_id": 13400,
+          "created_at": "2019-01-07 15:13:56",
+          "updated_at": "2019-01-07 15:13:56"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5051'>Ver mais</a>"
+  },
+  {
+    "id": 5050,
+    "created_by": 37,
+    "modalidade_id": 11,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "084/2018",
+    "numero_processo": "3992/18",
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇO DE ARBITRAGEM PARA ATENDER TODAS AS ATIVIDADES ESPORTIVAS DESENVOLVIDAS PELA SECRETARIA DE ESPORTE E LAZER",
+    "orgao": "SECRETARIA MUNICIPAL DE ESPORTE E LAZER",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Revogada",
+    "data_realizacao": "2018-11-22 18:15:08",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-11-09 17:40:08",
+    "updated_at": "2018-11-27 18:15:08",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE ESPORTE E LAZER\r\n• Unidade Orçamentária\t14.01 - Secretaria Municipal de Esporte e Lazer\r\n• Unidade Gestora\t\t14 - Secretaria Municipal de Esporte e Lazer\r\n• Projeto/Atividade\t\t2.120 – Gestão Administrativas da SELSLA\r\n• Elemento de Despesa \t3.3.90.39.00.00 – Material de consumo\r\n• Fonte de Recursos \t00.01.000–Recursos Ordinários- Tesouro\r\n",
+    "modalidade_descricao": "Registro de Preços",
+    "lic_numero": 84,
+    "lic_ano": 2018,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 11,
+      "descricao": "Registro de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13110,
+        "filename": "EDITAL  PP 0842018 - SERVIÇO DE ARBITRAGEM( C).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "269732",
+        "created_at": "2018-11-19 16:15:22",
+        "updated_at": "2018-11-19 16:15:22",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/e9b35779ace2a4089537016c990fae0657988c0c.pdf",
+        "pivot": {
+          "licitacao_id": 5050,
+          "arquivo_id": 13110,
+          "created_at": "2018-11-19 16:16:55",
+          "updated_at": "2018-11-19 16:16:55"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5050'>Ver mais</a>"
+  }
+]

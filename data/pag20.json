@@ -1,0 +1,2892 @@
+[
+  {
+    "id": 345,
+    "created_by": 8,
+    "modalidade_id": 8,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "001/2016",
+    "numero_processo": "5631/2016",
+    "objeto": "Contratação de empresa especializada em destinação final de ossadas humanas.",
+    "orgao": "Secretaria Municipal de Serviços Públicos",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2016-01-13 11:16:09",
+    "data_adjudicacao": null,
+    "data_homologacao": "2016-03-09 11:16:09",
+    "created_at": "2016-08-26 11:16:09",
+    "updated_at": "2016-08-26 11:16:09",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Eletrônico",
+    "lic_numero": 1,
+    "lic_ano": 2016,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 8,
+      "descricao": "Pregão Eletrônico",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 265,
+        "licitacao_id": 345,
+        "objeto": "Contratação de empresa especializada em destinação final de ossadas humanas.",
+        "vencedor": "M.Monte Serviços de Manutenção e Limpeza LTDA ME",
+        "cnpj": "09.597.538/0001-08",
+        "valor": "305207",
+        "created_at": "2016-08-26 11:16:09",
+        "updated_at": "2016-08-26 11:16:09",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 282,
+        "numero": "026/2016",
+        "contratada": "M.Monte Serviços de Manutenção e Limpeza LTDA ME",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "10 Meses",
+        "valor": 305207,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 345,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-08-26 11:16:09",
+        "updated_at": "2017-06-12 15:48:24",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 50,
+        "filename": "EDITAL PREGÃO ELETRÔNICO CREMAÇÃO nº 001-2016.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "307351",
+        "created_at": "2016-08-26 11:15:14",
+        "updated_at": "2016-08-26 11:15:14",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147222091457c04ef288c212.22568595.pdf",
+        "pivot": {
+          "licitacao_id": 345,
+          "arquivo_id": 50,
+          "created_at": "2016-08-26 11:16:09",
+          "updated_at": "2016-08-26 11:16:09"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/345'>Ver mais</a>"
+  },
+  {
+    "id": 352,
+    "created_by": 8,
+    "modalidade_id": 4,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "001/2016",
+    "numero_processo": "0674/2016",
+    "objeto": "Contratação de empresa para confecção de carnê de IPTU.",
+    "orgao": "Secretaria Municipal de Finanças",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2016-03-03 13:11:05",
+    "data_adjudicacao": null,
+    "data_homologacao": "2016-03-09 13:11:05",
+    "created_at": "2016-08-26 13:08:29",
+    "updated_at": "2016-08-26 13:11:05",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Convite",
+    "lic_numero": 1,
+    "lic_ano": 2016,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 4,
+      "descricao": "Convite",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 273,
+        "licitacao_id": 352,
+        "objeto": "Contratação de empresa para confecção de carnê de IPTU.",
+        "vencedor": "LFN Informática LTDA ME",
+        "cnpj": "00.346.580/0001-73",
+        "valor": "53300",
+        "created_at": "2016-08-26 13:08:29",
+        "updated_at": "2016-08-26 13:08:29",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 290,
+        "numero": "030/2016",
+        "contratada": "LFN Informática LTDA ME",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "10 Meses",
+        "valor": 53300,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 352,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-08-26 13:08:29",
+        "updated_at": "2017-06-12 15:48:25",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 57,
+        "filename": "05_ EDITAL - CARN+èS 2016.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "442838",
+        "created_at": "2016-08-26 13:11:01",
+        "updated_at": "2016-08-26 13:11:01",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147222786157c06a15478d55.55523250.pdf",
+        "pivot": {
+          "licitacao_id": 352,
+          "arquivo_id": 57,
+          "created_at": "2016-08-26 13:11:05",
+          "updated_at": "2016-08-26 13:11:05"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/352'>Ver mais</a>"
+  },
+  {
+    "id": 374,
+    "created_by": 8,
+    "modalidade_id": 1,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "001/2016",
+    "numero_processo": "0334/2016",
+    "objeto": "Contratação de empresa para conclusão de obra do Viaduto Nova Brasília no Município de Candeias/ BA.",
+    "orgao": "Secretaria Municipal de Infraestrutura e Obras",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2016-05-03 10:12:27",
+    "data_adjudicacao": null,
+    "data_homologacao": "2016-06-01 10:12:27",
+    "created_at": "2016-09-01 10:12:27",
+    "updated_at": "2016-09-01 10:12:27",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Concorrência",
+    "lic_numero": 1,
+    "lic_ano": 2016,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 1,
+      "descricao": "Concorrência",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 285,
+        "licitacao_id": 374,
+        "objeto": "Contratação de empresa para conclusão de obra do Viaduto Nova Brasília no Município de Candeias/ BA.",
+        "vencedor": "RCI - Construção e Meio Ambiente LTDA",
+        "cnpj": "15.143.548/0001-68",
+        "valor": "1646546.11",
+        "created_at": "2016-09-01 10:12:27",
+        "updated_at": "2016-09-01 10:12:27",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 314,
+        "numero": "069/2016",
+        "contratada": "RCI - Construção e Meio Ambiente LTDA",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "6 Meses",
+        "valor": 1646546.11,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 374,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-09-01 10:12:27",
+        "updated_at": "2017-06-12 15:48:26",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 241,
+        "filename": "Candeias 01 R3.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "140084",
+        "created_at": "2016-09-01 10:04:46",
+        "updated_at": "2016-09-01 10:04:46",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508657c8276eba9837.43404886.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 241,
+          "created_at": "2016-09-01 10:12:27",
+          "updated_at": "2016-09-01 10:12:27"
+        }
+      },
+      {
+        "id": 242,
+        "filename": "Candeias 02 R1.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "94921",
+        "created_at": "2016-09-01 10:04:46",
+        "updated_at": "2016-09-01 10:04:46",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508657c8276eef1c64.01187347.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 242,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 243,
+        "filename": "Candeias 03 R1.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "128021",
+        "created_at": "2016-09-01 10:04:47",
+        "updated_at": "2016-09-01 10:04:47",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508757c8276f3490c3.00431761.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 243,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 244,
+        "filename": "Candeias 04 R1.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "59851",
+        "created_at": "2016-09-01 10:04:47",
+        "updated_at": "2016-09-01 10:04:47",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508757c8276f5b9746.34842378.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 244,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 245,
+        "filename": "Candeias 05 R0.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "104470",
+        "created_at": "2016-09-01 10:04:47",
+        "updated_at": "2016-09-01 10:04:47",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508757c8276f92b1d0.00458038.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 245,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 246,
+        "filename": "Candeias 06 R0.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "119111",
+        "created_at": "2016-09-01 10:04:47",
+        "updated_at": "2016-09-01 10:04:47",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508757c8276fda44a8.76521882.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 246,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 247,
+        "filename": "Candeias 07 R0.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "90576",
+        "created_at": "2016-09-01 10:04:48",
+        "updated_at": "2016-09-01 10:04:48",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508857c82770250b45.38942569.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 247,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 248,
+        "filename": "Candeias 08 R0.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "115918",
+        "created_at": "2016-09-01 10:04:48",
+        "updated_at": "2016-09-01 10:04:48",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508857c82770620b02.54860810.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 248,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 249,
+        "filename": "Candeias 09 R0.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "76600",
+        "created_at": "2016-09-01 10:04:48",
+        "updated_at": "2016-09-01 10:04:48",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508857c827708da1d9.00477537.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 249,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 250,
+        "filename": "Candeias 10 R0.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "88736",
+        "created_at": "2016-09-01 10:04:48",
+        "updated_at": "2016-09-01 10:04:48",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508857c82770d550b7.31877652.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 250,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 251,
+        "filename": "Candeias 11 R0.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "109928",
+        "created_at": "2016-09-01 10:04:49",
+        "updated_at": "2016-09-01 10:04:49",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508957c82771190113.54503845.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 251,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 252,
+        "filename": "Candeias 12 R1.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "124515",
+        "created_at": "2016-09-01 10:04:49",
+        "updated_at": "2016-09-01 10:04:49",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508957c827714a70e8.55467186.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 252,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 253,
+        "filename": "cronograma atualizado.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "17760",
+        "created_at": "2016-09-01 10:04:49",
+        "updated_at": "2016-09-01 10:04:49",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273508957c827716726f4.32983614.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 253,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 254,
+        "filename": "Croqui de Loca+º+úo.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "214831",
+        "created_at": "2016-09-01 10:04:50",
+        "updated_at": "2016-09-01 10:04:50",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509057c8277295c190.72796794.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 254,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 255,
+        "filename": "EDITAL VIADUTO NOVA BRAS+ìLIA CP 001.2016.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "642944",
+        "created_at": "2016-09-01 10:04:51",
+        "updated_at": "2016-09-01 10:04:51",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509157c82773af5bd1.01018023.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 255,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 256,
+        "filename": "FIXA+çAO DE PLACAS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "78505",
+        "created_at": "2016-09-01 10:04:51",
+        "updated_at": "2016-09-01 10:04:51",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509157c82773e6a383.73396815.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 256,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 257,
+        "filename": "MEMORIAL DESCRITIVO ATUALIZADO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "634830",
+        "created_at": "2016-09-01 10:04:52",
+        "updated_at": "2016-09-01 10:04:52",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509257c82774d133a6.05692831.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 257,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 258,
+        "filename": "PE-003-007-014-L.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "121691",
+        "created_at": "2016-09-01 10:04:53",
+        "updated_at": "2016-09-01 10:04:53",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509357c8277524d075.00887545.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 258,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 259,
+        "filename": "Planilha Viaduto ENVIADA7 - Novembro.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "80705",
+        "created_at": "2016-09-01 10:04:53",
+        "updated_at": "2016-09-01 10:04:53",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509357c8277558af63.27456205.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 259,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 260,
+        "filename": "POSI+ç+âO DE PLACAS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "81644",
+        "created_at": "2016-09-01 10:04:53",
+        "updated_at": "2016-09-01 10:04:53",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509357c8277596dee8.57762292.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 260,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 261,
+        "filename": "Posi+º+úo de delineadores.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "74334",
+        "created_at": "2016-09-01 10:04:53",
+        "updated_at": "2016-09-01 10:04:53",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509357c82775d4f909.00150141.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 261,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 262,
+        "filename": "Praca Viaduto Candeias 28.01.2014.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "2436527",
+        "created_at": "2016-09-01 10:04:56",
+        "updated_at": "2016-09-01 10:04:56",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509657c827788b9514.06905723.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 262,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 263,
+        "filename": "Redutor - Tipo 1.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "216352",
+        "created_at": "2016-09-01 10:04:57",
+        "updated_at": "2016-09-01 10:04:57",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509757c827790b4cb5.37906715.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 263,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 264,
+        "filename": "Redutor - Tipo 2.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "215669",
+        "created_at": "2016-09-01 10:04:57",
+        "updated_at": "2016-09-01 10:04:57",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509757c8277954f0d3.00504326.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 264,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 265,
+        "filename": "RELAT+ôRIO SP 209.13.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "65807",
+        "created_at": "2016-09-01 10:04:57",
+        "updated_at": "2016-09-01 10:04:57",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509757c82779826f70.37444163.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 265,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 266,
+        "filename": "SP-01.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "60026",
+        "created_at": "2016-09-01 10:04:57",
+        "updated_at": "2016-09-01 10:04:57",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509757c82779b15165.21298600.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 266,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 267,
+        "filename": "SP-02.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "52694",
+        "created_at": "2016-09-01 10:04:57",
+        "updated_at": "2016-09-01 10:04:57",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509757c82779ebe662.72981594.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 267,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      },
+      {
+        "id": 268,
+        "filename": "SP-02A.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "56067",
+        "created_at": "2016-09-01 10:04:58",
+        "updated_at": "2016-09-01 10:04:58",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147273509857c8277a247057.85897433.pdf",
+        "pivot": {
+          "licitacao_id": 374,
+          "arquivo_id": 268,
+          "created_at": "2016-09-01 10:12:28",
+          "updated_at": "2016-09-01 10:12:28"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/374'>Ver mais</a>"
+  },
+  {
+    "id": 5128,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "095/2015",
+    "numero_processo": "6146/18",
+    "objeto": "Contratação de empresa especializada para prestação de serviços contínuos de manutenção preventiva e corretiva nos veículos leves e pesados automotores da frota oficial do Município de Candeias, compreendendo serviços mecânicos, serviços hidráulicos, elétrico-eletrônicos, vidraçaria, troca de lubrificantes, fluídos de freio e filtros, com fornecimento de peças, materiais e mão de obra, de acordo com as condições e especificações, para manutenção dos veículos, conforme condições, quantidades e exigências estabelecidas neste Termo de Referência e em seus anexos.",
+    "orgao": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2018-12-20 08:16:06",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2018-12-20 08:16:06",
+    "updated_at": "2018-12-20 08:16:06",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE EDUCAÇÃO\r\n• Unidade Orçamentária\t18.01 - Secretaria Municipal de Educação\r\n• Unidade Gestora\t\t18 - Secretaria Municipal de Educação\r\n• Projeto/Atividade\t\t2065 – Gestão das Ações da SEDUC\r\n\t\t\t\t2072 – Gestão das Ações de Prog. De Trnas. Escolar da Educação Básica\r\n• Elemento de Despesa \t3390.39.00.00 – Outros Serviços de Terceiros – PJ\r\n\t\t\t\t3390.30.00.00 – Material de Consumo\r\n\t• Fonte de Recursos \t00.01.0001 – Receitas de Impostos e Transferências de Impostos-Educação 25%\r\n\t\t\t\t00.01.0015 – Transf. De Recursos do Fundo Nacional de Desenv. Da Educação - FNDE\r\n\r\nSECRETARIA MUNICIPAL DE SAÚDE\r\n• Unidade Orçamentária\t20.02 - Fundo Municipal de Saúde de Candeias\r\n• Unidade Gestora\t\t20 - Secretaria Municipal de Saúde\r\n• Projeto/Atividade\t\t2090 – Gestão das Ações Administrativas da SESAU\r\n\t• Elemento de Despesa \t3390.39.00.00 – Outros Serviços de Terceiros – PJ\r\n\t\t\t\t3390.30.00.00 – Material de Consumo\r\n\t• Fonte de Recursos \t00.02.0000 – Recursos Próprios\r\n\t\t\t\t \r\nSECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL-SEDAS\r\n\r\n•\tUnidade Orçamentária\t09-Secretaria de Desev. e Assistência Social-SEDAS  \r\n•\tUnidade Gestora\t\t09.01 – Secretaria de Desev. e Assistência Social-SEDAS  \r\n•\tFuncional                             08.244.0008 – Assistência Comunitária\r\n•\tProjeto/Atividade\t\t2.109 – Gestão das Ações Administrativas da SEDAS\r\n•\tElemento de Despesa \t33.90.30.00.00 – Material de Consumo\r\n                                              3390.39.00.00 – Outros Serviços de Terceiros – PJ\r\nFonte de Recursos   \t00.01.0000 – Recursos Ordinários - Tesouro\r\n\r\nSECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS - SESP\r\n• Unidade Orçamentária\t11 – Secretaria de Serviços Públicos - SESP\r\n• Unidade Gestora\t\t11.01 - Secretaria de Serviços Públicos - SESP\r\n• Projeto/Atividade\t\t2047 – Gestão das Ações Administrativas da SESP\r\n• Elemento de Despesa \t33.90.30.00.00 – Material de Consumo\r\n                                           33.90.39.00.00- Outros Serviços de Terceiro- PJ\r\n• Fonte de Recursos \t00.01.0000 – Recursos Ordinários - Tesouro\r\n",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 95,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 13344,
+        "filename": "EDITAL  0952018 - MANUTENCAO DE VEICULOS (C).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "401511",
+        "created_at": "2018-12-20 08:05:43",
+        "updated_at": "2018-12-20 08:05:43",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/9215a48232e3f4e756705098f9b9c9b73a412963.pdf",
+        "pivot": {
+          "licitacao_id": 5128,
+          "arquivo_id": 13344,
+          "created_at": "2018-12-20 08:16:06",
+          "updated_at": "2018-12-20 08:16:06"
+        }
+      },
+      {
+        "id": 13345,
+        "filename": "AVISO DE LICITAÇÃO PP 0952018 NOVA DATA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "9896",
+        "created_at": "2018-12-20 08:08:41",
+        "updated_at": "2018-12-20 08:08:41",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/986c6445ede18843f788362d292a55358a1f74c7.pdf",
+        "pivot": {
+          "licitacao_id": 5128,
+          "arquivo_id": 13345,
+          "created_at": "2018-12-20 08:16:06",
+          "updated_at": "2018-12-20 08:16:06"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/5128'>Ver mais</a>"
+  },
+  {
+    "id": 341,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "058/2015",
+    "numero_processo": "5632/2015",
+    "objeto": "Contratação de empresa para prestação de serviços de produção de eventos.",
+    "orgao": "Secretaria Municipal de Educação",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2016-01-08 12:11:07",
+    "data_adjudicacao": null,
+    "data_homologacao": "2016-01-15 12:11:07",
+    "created_at": "2016-08-25 12:11:07",
+    "updated_at": "2016-08-25 12:11:07",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 58,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 261,
+        "licitacao_id": 341,
+        "objeto": "Contratação de empresa para prestação de serviços de produção de eventos.",
+        "vencedor": "Laranjeiras Toldoas LTDA ME",
+        "cnpj": "07.989.570/0001-03",
+        "valor": "231500",
+        "created_at": "2016-08-25 12:11:07",
+        "updated_at": "2016-08-25 12:11:07",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 278,
+        "numero": "009/2016",
+        "contratada": "Laranjeiras Toldoas LTDA ME",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "4 Meses",
+        "valor": 231500,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 341,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-08-25 12:11:07",
+        "updated_at": "2017-06-12 15:48:24",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 46,
+        "filename": "9-EDITAL - Produção de eventos do calendário 2016.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "564719",
+        "created_at": "2016-08-25 12:11:03",
+        "updated_at": "2016-08-25 12:11:03",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147213786357bf0a87a471e5.38216270.pdf",
+        "pivot": {
+          "licitacao_id": 341,
+          "arquivo_id": 46,
+          "created_at": "2016-08-25 12:11:07",
+          "updated_at": "2016-08-25 12:11:07"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/341'>Ver mais</a>"
+  },
+  {
+    "id": 340,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "057/2015",
+    "numero_processo": "4786/2015",
+    "objeto": "Contratação de empresa para aquisição de material de informática.",
+    "orgao": "Secretaria Municipal de Adaministração / Secretaria Municipal de Finanças",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2016-01-07 11:53:25",
+    "data_adjudicacao": null,
+    "data_homologacao": "2016-01-21 11:53:25",
+    "created_at": "2016-08-25 11:52:07",
+    "updated_at": "2016-08-25 11:53:25",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 57,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 260,
+        "licitacao_id": 340,
+        "objeto": "Contratação de empresa para aquisição de material de informática.",
+        "vencedor": "Tarsis Yure de oliveira Santos - ME",
+        "cnpj": "17.544.723/0001-54",
+        "valor": "48950",
+        "created_at": "2016-08-25 11:52:07",
+        "updated_at": "2016-08-25 11:52:07",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 277,
+        "numero": "017/2016",
+        "contratada": "Tarsis Yure de oliveira Santos - ME",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "1 Mês",
+        "valor": 48950,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 340,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-08-25 11:52:07",
+        "updated_at": "2017-06-12 15:48:24",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 45,
+        "filename": "9-EDITAL - Mat. Inform+ítica.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "463933",
+        "created_at": "2016-08-25 11:53:21",
+        "updated_at": "2016-08-25 11:53:21",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147213680157bf066141f7b7.14793251.pdf",
+        "pivot": {
+          "licitacao_id": 340,
+          "arquivo_id": 45,
+          "created_at": "2016-08-25 11:53:25",
+          "updated_at": "2016-08-25 11:53:25"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/340'>Ver mais</a>"
+  },
+  {
+    "id": 339,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "056/2015",
+    "numero_processo": "5373/2015",
+    "objeto": "Contratação de empresa para fornecimento de combustíveis. ",
+    "orgao": "Secretaria Municipal de Administração / Secretaria Municipal de Educação / Secretaria Municipal de Serviços Públicos / Secretaria Municipal de Desenvolvimento e Assistência Social",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-12-29 11:49:10",
+    "data_adjudicacao": null,
+    "data_homologacao": "2016-01-04 11:49:10",
+    "created_at": "2016-08-25 11:49:10",
+    "updated_at": "2016-08-25 11:49:10",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 56,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 259,
+        "licitacao_id": 339,
+        "objeto": "Contratação de empresa para fornecimento de combustíveis. ",
+        "vencedor": "MAD Comércio e Serviços LTDA",
+        "cnpj": "03.858.625/0001-87",
+        "valor": "1599270.96",
+        "created_at": "2016-08-25 11:49:10",
+        "updated_at": "2016-08-25 11:49:10",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 276,
+        "numero": "006-A/2016",
+        "contratada": "MAD Comércio e Serviços LTDA",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "12 Meses",
+        "valor": 1599270.96,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "",
+        "licitacao_id": 339,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-08-25 11:49:10",
+        "updated_at": "2017-06-12 15:48:24",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 44,
+        "filename": "ATUALIZADO     EDITAL PREG+âO PRESENCIAL N-¦ 056-15 combustivel.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "768335",
+        "created_at": "2016-08-25 11:49:05",
+        "updated_at": "2016-08-25 11:49:05",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/147213654557bf0561915382.36632907.pdf",
+        "pivot": {
+          "licitacao_id": 339,
+          "arquivo_id": 44,
+          "created_at": "2016-08-25 11:49:10",
+          "updated_at": "2016-08-25 11:49:10"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/339'>Ver mais</a>"
+  },
+  {
+    "id": 295,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "053/2015",
+    "numero_processo": "5152/2015",
+    "objeto": "Contratação de empresa para prestação de serviços de produção de eventos natalinos para o NATAL DOS SONHOS.",
+    "orgao": "Secretaria Municipal de Governo e Gestão",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-12-02 13:48:38",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-12-04 13:48:38",
+    "created_at": "2016-07-29 13:48:38",
+    "updated_at": "2016-07-29 13:48:38",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 53,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 240,
+        "licitacao_id": 295,
+        "objeto": "Contratação de empresa para prestação de serviços de produção de eventos natalinos para o NATAL DOS SONHOS.",
+        "vencedor": "Laranjeiras Toldoas LTDA ME",
+        "cnpj": "07.989.570/0001-03",
+        "valor": "227500",
+        "created_at": "2016-07-29 13:48:38",
+        "updated_at": "2016-07-29 13:48:38",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 245,
+        "numero": "119/2015",
+        "contratada": "Laranjeiras Toldoas LTDA ME",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "1 mês",
+        "valor": 227500,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 295,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-07-29 13:48:38",
+        "updated_at": "2017-06-12 15:48:22",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 14,
+        "filename": "9-EDITAL - Decora+º+úo Natal OK.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "595731",
+        "created_at": "2016-07-29 13:44:55",
+        "updated_at": "2016-07-29 13:44:55",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1469810695579b8807a98089.58597167.pdf",
+        "pivot": {
+          "licitacao_id": 295,
+          "arquivo_id": 14,
+          "created_at": "2016-07-29 13:48:39",
+          "updated_at": "2016-07-29 13:48:39"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/295'>Ver mais</a>"
+  },
+  {
+    "id": 294,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "051/2015",
+    "numero_processo": "4815/2015",
+    "objeto": "Contratação de empresa especializada e habilitada no ramo de transporte de passageiros escolar, para transporte de alunos, universitários, alunos de cursos técnicos e funcionários do Município de Candeias",
+    "orgao": "Secretaria Municipal de Saúde / Secretaria Municipal de Educação /  Secretaria Municipal de Administração",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-11-05 13:43:47",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-12-04 13:43:47",
+    "created_at": "2016-07-29 13:43:47",
+    "updated_at": "2016-07-29 13:43:47",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 51,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 239,
+        "licitacao_id": 294,
+        "objeto": "Contratação de empresa especializada e habilitada no ramo de transporte de passageiros escolar, para transporte de alunos, universitários, alunos de cursos técnicos e funcionários do Município de Candeias",
+        "vencedor": "Contratação de empresa especializada e habilitada no ramo de transporte de passageiros escolar, para transporte de alunos, universitários, alunos de cursos técnicos e funcionários do Município de Candeias",
+        "cnpj": "08.380.889/0001-91",
+        "valor": "17973153.6",
+        "created_at": "2016-07-29 13:43:47",
+        "updated_at": "2016-07-29 13:43:47",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 244,
+        "numero": "121/2015",
+        "contratada": "Contratação de empresa especializada e habilitada no ramo de transporte de passageiros escolar, para transporte de alunos, universitários, alunos de cursos técnicos e funcionários do Município de Candeias",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "24 meses",
+        "valor": 17973153.6,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 294,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-07-29 13:43:47",
+        "updated_at": "2017-06-12 15:48:22",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/294'>Ver mais</a>"
+  },
+  {
+    "id": 292,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "050/2015",
+    "numero_processo": "3502/2015",
+    "objeto": "Contratação de empresa para fornecimento parcelado e instalação de aparelhos de ar condicionado, tipo split e janela.",
+    "orgao": "Secretaria Municipal de Educação /  Secretaria Municipal de Administração",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-10-29 12:52:10",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-11-10 12:52:10",
+    "created_at": "2016-07-29 12:52:10",
+    "updated_at": "2016-07-29 12:52:10",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 50,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 237,
+        "licitacao_id": 292,
+        "objeto": "Contratação de empresa para fornecimento parcelado e instalação de aparelhos de ar condicionado, tipo split e janela.",
+        "vencedor": "Diclima Climatização LTDA ME",
+        "cnpj": "10.674.365/0001-55",
+        "valor": "86612.16",
+        "created_at": "2016-07-29 12:52:10",
+        "updated_at": "2016-07-29 12:52:10",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 242,
+        "numero": "115/2015",
+        "contratada": "Diclima Climatização LTDA ME",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "1 mês",
+        "valor": 86612.16,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 292,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-07-29 12:52:10",
+        "updated_at": "2017-06-12 15:48:22",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 12,
+        "filename": "9-EDITAL - Ar Condicionado com CREA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "560080",
+        "created_at": "2016-07-29 12:47:13",
+        "updated_at": "2016-07-29 12:47:13",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1469807233579b7a8145d3c3.79625069.pdf",
+        "pivot": {
+          "licitacao_id": 292,
+          "arquivo_id": 12,
+          "created_at": "2016-07-29 12:52:10",
+          "updated_at": "2016-07-29 12:52:10"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/292'>Ver mais</a>"
+  },
+  {
+    "id": 291,
+    "created_by": 8,
+    "modalidade_id": 11,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "047/2015",
+    "numero_processo": "0523/2015",
+    "objeto": "Pregão Presencial para registro de preços de aquisição de móveis tipo escritório e escolar, divisórias, para aplicação em diversas Secretarias do Município de Candeias.",
+    "orgao": "Secretaria de Desenvolvimento e Assistência Social / Secretaria Municipal de Educação /  Secretaria Municipal de Administração",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-10-09 12:46:37",
+    "data_adjudicacao": null,
+    "data_homologacao": "2016-07-29 12:46:37",
+    "created_at": "2016-07-29 12:40:15",
+    "updated_at": "2016-07-29 12:46:37",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Registro de Preços",
+    "lic_numero": 47,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 11,
+      "descricao": "Registro de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 236,
+        "licitacao_id": 291,
+        "objeto": "Pregão Presencial para registro de preços de aquisição de móveis tipo escritório e escolar, divisórias, para aplicação em diversas Secretarias do Município de Candeias.",
+        "vencedor": "New Clay Comércio de Móveis e Decorações  e Serviços LTDA",
+        "cnpj": "13.675.514/0001-99",
+        "valor": "1166000",
+        "created_at": "2016-07-29 12:46:24",
+        "updated_at": "2016-07-29 12:46:37",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 11,
+        "filename": "5 EDITAL COMPLETO srp mov 1.0.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "1328989",
+        "created_at": "2016-07-29 12:37:37",
+        "updated_at": "2016-07-29 12:37:37",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1469806657579b7841976f31.26807847.pdf",
+        "pivot": {
+          "licitacao_id": 291,
+          "arquivo_id": 11,
+          "created_at": "2016-07-29 12:40:15",
+          "updated_at": "2016-07-29 12:40:15"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/291'>Ver mais</a>"
+  },
+  {
+    "id": 290,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "046/2015",
+    "numero_processo": "4366/2015",
+    "objeto": "Contratação de empresa para recuperação do telhado da Central de Abastecimento de Candeias",
+    "orgao": "Secretaria Municipal de Infraestrutura e Obras",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-10-06 12:37:03",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-10-08 12:37:03",
+    "created_at": "2016-07-29 12:37:03",
+    "updated_at": "2016-07-29 12:37:03",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 46,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 235,
+        "licitacao_id": 290,
+        "objeto": "Contratação de empresa para recuperação do telhado da Central de Abastecimento de Candeias",
+        "vencedor": "VIP Construções LTDA ME",
+        "cnpj": "04.650.663/0001-02",
+        "valor": "29550.25",
+        "created_at": "2016-07-29 12:37:03",
+        "updated_at": "2016-07-29 12:37:03",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 241,
+        "numero": "109/2015",
+        "contratada": "VIP Construções LTDA ME",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "1 mês",
+        "valor": 29550.25,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 290,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-07-29 12:37:03",
+        "updated_at": "2017-06-12 15:48:22",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 10,
+        "filename": "8- EDITAL - GALP+âO C. ABASTECIMENTO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "478957",
+        "created_at": "2016-07-29 12:33:25",
+        "updated_at": "2016-07-29 12:33:25",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1469806405579b77459d1916.75524640.pdf",
+        "pivot": {
+          "licitacao_id": 290,
+          "arquivo_id": 10,
+          "created_at": "2016-07-29 12:37:03",
+          "updated_at": "2016-07-29 12:37:03"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/290'>Ver mais</a>"
+  },
+  {
+    "id": 289,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "045/2015",
+    "numero_processo": "4077/2015",
+    "objeto": "Contratação de empresa para manutenção preventiva e corretiva nos veículos automotivos escolares",
+    "orgao": "Secretaria Municipal de Educação",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-10-06 12:32:57",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-10-08 12:32:57",
+    "created_at": "2016-07-29 12:32:57",
+    "updated_at": "2016-07-29 12:32:57",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 45,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 234,
+        "licitacao_id": 289,
+        "objeto": "Contratação de empresa para manutenção preventiva e corretiva nos veículos automotivos escolares",
+        "vencedor": "Simões Filho Serviços e Comércio de Auto Peças EPP",
+        "cnpj": "42.064.311/0001-64",
+        "valor": "146200",
+        "created_at": "2016-07-29 12:32:57",
+        "updated_at": "2016-07-29 12:32:57",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 240,
+        "numero": "110/2015",
+        "contratada": "Simões Filho Serviços e Comércio de Auto Peças EPP",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "12 meses",
+        "valor": 146200,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 289,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-07-29 12:32:57",
+        "updated_at": "2017-06-12 15:48:22",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 9,
+        "filename": "9-EDITAL - Man. Ve+¡culos Educa+º+úo PNATE.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "635080",
+        "created_at": "2016-07-29 12:29:28",
+        "updated_at": "2016-07-29 12:29:28",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1469806168579b7658570f62.54617705.pdf",
+        "pivot": {
+          "licitacao_id": 289,
+          "arquivo_id": 9,
+          "created_at": "2016-07-29 12:32:57",
+          "updated_at": "2016-07-29 12:32:57"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/289'>Ver mais</a>"
+  },
+  {
+    "id": 288,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "043/2015",
+    "numero_processo": "3548/2015",
+    "objeto": "Contratação de empresa para fornecimento de materias de limpeza e higiene.",
+    "orgao": "Secretaria de Desenvolvimento e Assistência Social / Secretaria Municipal de Educação /  Secretaria Municipal de Administração",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-09-16 12:29:05",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-10-06 12:29:05",
+    "created_at": "2016-07-29 12:29:05",
+    "updated_at": "2016-07-29 12:29:05",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 43,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 232,
+        "licitacao_id": 288,
+        "objeto": "Contratação de empresa para fornecimento de materias de limpeza e higiene.",
+        "vencedor": "VM Comércio LTDA",
+        "cnpj": "03.019.930/0001-85",
+        "valor": "17606.4",
+        "created_at": "2016-07-29 12:29:05",
+        "updated_at": "2016-07-29 12:29:05",
+        "deleted_at": null
+      },
+      {
+        "id": 233,
+        "licitacao_id": 288,
+        "objeto": "Contratação de empresa para fornecimento de materias de limpeza e higiene.",
+        "vencedor": "AME Comercial de Materiais deEscritório LTDA - EPP",
+        "cnpj": "07.805.424/0001-72",
+        "valor": "58759.69",
+        "created_at": "2016-07-29 12:29:05",
+        "updated_at": "2016-07-29 12:29:05",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 238,
+        "numero": "107/2015",
+        "contratada": "VM Comércio LTDA",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "3 meses",
+        "valor": 17606.4,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 288,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-07-29 12:29:05",
+        "updated_at": "2017-06-12 15:48:22",
+        "deleted_at": null,
+        "arquivo": null
+      },
+      {
+        "id": 239,
+        "numero": "108/2015",
+        "contratada": "AME Comercial de Materiais deEscritório LTDA - EPP",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "3 meses",
+        "valor": 58759.69,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 2",
+        "licitacao_id": 288,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-07-29 12:29:05",
+        "updated_at": "2017-06-12 15:48:22",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 8,
+        "filename": "EDITAL DE LICITA+ç+âO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "537421",
+        "created_at": "2016-07-29 11:21:01",
+        "updated_at": "2016-07-29 11:21:01",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1469802061579b664d6a2bb9.80483668.pdf",
+        "pivot": {
+          "licitacao_id": 288,
+          "arquivo_id": 8,
+          "created_at": "2016-07-29 12:29:05",
+          "updated_at": "2016-07-29 12:29:05"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/288'>Ver mais</a>"
+  },
+  {
+    "id": 287,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "042/2015",
+    "numero_processo": "1412/2015",
+    "objeto": "Contratação de empresa para fornecimento de materias para atender as necessidades das creches do Município de Candeias (Brasil Carinhoso)",
+    "orgao": "Secretaria Municipal de Educação",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-09-02 11:20:37",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-10-16 11:20:37",
+    "created_at": "2016-07-29 11:20:37",
+    "updated_at": "2016-07-29 11:20:37",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 42,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 230,
+        "licitacao_id": 287,
+        "objeto": "Contratação de empresa para fornecimento de materias para atender as necessidades das creches do Município de Candeias (Brasil Carinhoso)",
+        "vencedor": "AME Comercial de Materiasi de escritório LTDA - EPP",
+        "cnpj": "07.805.424/0001-72",
+        "valor": "12253",
+        "created_at": "2016-07-29 11:20:37",
+        "updated_at": "2016-07-29 11:20:37",
+        "deleted_at": null
+      },
+      {
+        "id": 231,
+        "licitacao_id": 287,
+        "objeto": "Contratação de empresa para fornecimento de materias para atender as necessidades das creches do Município de Candeias (Brasil Carinhoso)",
+        "vencedor": "TIC TAC Comércio de Brinquedos  Pedagógicos LTDA ME",
+        "cnpj": "13.697.297/0001-60",
+        "valor": "72000",
+        "created_at": "2016-07-29 11:20:37",
+        "updated_at": "2016-07-29 11:20:37",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 236,
+        "numero": "112/2015",
+        "contratada": "AME Comercial de Materiasi de escritório LTDA - EPP",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "3 meses",
+        "valor": 12253,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 287,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-07-29 11:20:37",
+        "updated_at": "2017-06-12 15:48:22",
+        "deleted_at": null,
+        "arquivo": null
+      },
+      {
+        "id": 237,
+        "numero": "113/2015",
+        "contratada": "TIC TAC Comércio de Brinquedos  Pedagógicos LTDA ME",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "3 meses",
+        "valor": 72000,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "lote 2",
+        "licitacao_id": 287,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-07-29 11:20:37",
+        "updated_at": "2017-06-12 15:48:22",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 7,
+        "filename": "9-EDITAL - Brasil Carinhoso.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "575454",
+        "created_at": "2016-07-29 11:12:24",
+        "updated_at": "2016-07-29 11:12:24",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1469801544579b6448d81f14.49310363.pdf",
+        "pivot": {
+          "licitacao_id": 287,
+          "arquivo_id": 7,
+          "created_at": "2016-07-29 11:20:37",
+          "updated_at": "2016-07-29 11:20:37"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/287'>Ver mais</a>"
+  },
+  {
+    "id": 268,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "041/2015",
+    "numero_processo": "3725/2016",
+    "objeto": "Contratação de empresa para locação de 05 (cinco) veículos sem motorista.",
+    "orgao": "Secretaria de Desenvolvimento e Assistência Social",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-09-23 11:18:24",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-10-01 11:18:24",
+    "created_at": "2016-07-14 11:17:51",
+    "updated_at": "2016-07-14 11:18:24",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 41,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 159,
+        "licitacao_id": 268,
+        "objeto": "Contratação de empresa para locação de 05 (cinco) veículos sem motorista.",
+        "vencedor": "Posato Empreendimentos Eireli EPP",
+        "cnpj": "11.211.475/0001-43",
+        "valor": "9400",
+        "created_at": "2016-07-14 11:17:52",
+        "updated_at": "2016-07-14 11:18:24",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 220,
+        "numero": "105/2015",
+        "contratada": "Posato Empreendimentos Eireli EPP",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "3 meses",
+        "valor": 9400,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "lote 1",
+        "licitacao_id": 268,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-07-14 11:17:52",
+        "updated_at": "2017-06-12 15:48:21",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 3,
+        "filename": "ATUALIZADO Edital Preg+úo Presencial n-¦ 041-2015-1.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "506867",
+        "created_at": "2016-07-14 11:18:22",
+        "updated_at": "2016-07-14 11:18:22",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/146850590257879f2e373c84.94319296.pdf",
+        "pivot": {
+          "licitacao_id": 268,
+          "arquivo_id": 3,
+          "created_at": "2016-07-14 11:18:24",
+          "updated_at": "2016-07-14 11:18:24"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/268'>Ver mais</a>"
+  },
+  {
+    "id": 267,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "040/2015",
+    "numero_processo": "2830/2015",
+    "objeto": "Contratação de empresa especializada para provimento de acesso a internet e devidamente autorizada pela ANATEL",
+    "orgao": "Secretaria Municipal de Administração",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-09-02 11:13:10",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-09-08 11:13:10",
+    "created_at": "2016-07-14 11:13:10",
+    "updated_at": "2016-07-14 11:13:10",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 40,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 158,
+        "licitacao_id": 267,
+        "objeto": "Contratação de empresa especializada para provimento de acesso a internet e devidamente autorizada pela ANATEL",
+        "vencedor": "Screen Saver Informática LTDA",
+        "cnpj": "01.800.080/0001-22",
+        "valor": "79200",
+        "created_at": "2016-07-14 11:13:10",
+        "updated_at": "2016-07-14 11:13:10",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 219,
+        "numero": "103/2016",
+        "contratada": "Screen Saver Informática LTDA",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municicpal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "12 meses",
+        "valor": 79200,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote 1",
+        "licitacao_id": 267,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2016-07-14 11:13:10",
+        "updated_at": "2017-06-12 15:48:21",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [
+      {
+        "id": 2,
+        "filename": "Edital_Preg+úo Presencial  n-¦ 040-15 Internet.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "544378",
+        "created_at": "2016-07-14 11:11:13",
+        "updated_at": "2016-07-14 11:11:13",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/146850547357879d815aaa55.04835653.pdf",
+        "pivot": {
+          "licitacao_id": 267,
+          "arquivo_id": 2,
+          "created_at": "2016-07-14 11:13:10",
+          "updated_at": "2016-07-14 11:13:10"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/267'>Ver mais</a>"
+  },
+  {
+    "id": 72,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "039/2015",
+    "numero_processo": "2367/2015",
+    "objeto": "Contratação de empresa para prestação de serviços para fornecimento de refeições prontas, tipo \"kit Lanche\"",
+    "orgao": "Secretaria Municipal de Serviços Públicos",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-08-19 10:37:33",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-08-27 10:37:33",
+    "created_at": "2015-09-16 10:37:33",
+    "updated_at": "2015-09-16 10:37:33",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 39,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 76,
+        "licitacao_id": 72,
+        "objeto": "Contratação de empresa para prestação de serviços para fornecimento de refeições prontas, tipo \"kit Lanche\"",
+        "vencedor": "Magda Regina Medeiros dos Santos Ramos ME.",
+        "cnpj": "03.587.779/0001-81",
+        "valor": "328000",
+        "created_at": "2015-09-16 10:37:33",
+        "updated_at": "2015-09-16 10:37:33",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 66,
+        "numero": "102/2015",
+        "contratada": "Magda Regina Medeiros dos Santos Ramos ME.",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal De Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "3 Meses",
+        "valor": 328000,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote I",
+        "licitacao_id": 72,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2015-09-16 10:37:33",
+        "updated_at": "2017-06-12 15:48:12",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/72'>Ver mais</a>"
+  },
+  {
+    "id": 70,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "038/2015",
+    "numero_processo": "1630/2015",
+    "objeto": "Contratação de serviços para prestação de serviços gráficos monocromáticos e policromáticos, incluindo o acabamento, papel e todo material de suprimento.",
+    "orgao": "Secretaria Municipal de Administração",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-07-24 10:33:22",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-08-11 10:33:22",
+    "created_at": "2015-09-16 10:33:22",
+    "updated_at": "2015-09-16 10:33:22",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 38,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 74,
+        "licitacao_id": 70,
+        "objeto": "Contratação de serviços para prestação de serviços gráficos monocromáticos e policromáticos, incluindo o acabamento, papel e todo material de suprimento.",
+        "vencedor": "Eduardo Vitor Modesto Costa Pereira",
+        "cnpj": "11.182.186/0001-83",
+        "valor": "88750",
+        "created_at": "2015-09-16 10:33:22",
+        "updated_at": "2015-09-16 10:33:22",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 64,
+        "numero": "099/2015",
+        "contratada": "Eduardo Vitor Modesto Costa Pereira",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal De Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "3 Meses",
+        "valor": 88750,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote I",
+        "licitacao_id": 70,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2015-09-16 10:33:22",
+        "updated_at": "2017-06-12 15:48:12",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/70'>Ver mais</a>"
+  },
+  {
+    "id": 69,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "037/2015",
+    "numero_processo": "1304/2015",
+    "objeto": "Contratação de empresa fornecimento parcelado, a preço fixo, passível de recomposição, visando a eventual aquisição de peças, acessórios e peças elétricas, automotivas, originais e/ou genuínas, novas, de primeiro uso, visando a manutenção de veículos categorizados como leves, pesados e máquinas, de acordo com fabricantes.",
+    "orgao": "Secretaria Municipal de Administração",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-07-24 10:25:05",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-08-13 10:25:05",
+    "created_at": "2015-09-16 10:25:05",
+    "updated_at": "2015-09-16 10:25:05",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 37,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 72,
+        "licitacao_id": 69,
+        "objeto": "Contratação de empresa fornecimento parcelado, a preço fixo, passível de recomposição, visando a eventual aquisição de peças, acessórios e peças elétricas, automotivas, originais e/ou genuínas, novas, de primeiro uso, visando a manutenção de veículos categorizados como leves, pesados e máquinas, de acordo com fabricantes.",
+        "vencedor": "Carmo Santos Transportadora Comércio de Peças LTDA EPP",
+        "cnpj": "02.077.440/0001-72",
+        "valor": "127791.26",
+        "created_at": "2015-09-16 10:25:05",
+        "updated_at": "2015-09-16 10:25:05",
+        "deleted_at": null
+      },
+      {
+        "id": 73,
+        "licitacao_id": 69,
+        "objeto": "Contratação de empresa fornecimento parcelado, a preço fixo, passível de recomposição, visando a eventual aquisição de peças, acessórios e peças elétricas, automotivas, originais e/ou genuínas, novas, de primeiro uso, visando a manutenção de veículos categorizados como leves, pesados e máquinas, de acordo com fabricantes.",
+        "vencedor": "Trator Técnica Comercial de Peças e Serviços LTDA",
+        "cnpj": "15.204.423/0001-09",
+        "valor": "14495",
+        "created_at": "2015-09-16 10:25:05",
+        "updated_at": "2015-09-16 10:25:05",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 62,
+        "numero": "097/2015",
+        "contratada": "Carmo Santos Transportes e Comércio de Peças LTDA EPP>",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal De Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "4 Meses",
+        "valor": 127791.26,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote I",
+        "licitacao_id": 69,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2015-09-16 10:25:05",
+        "updated_at": "2017-06-12 15:48:12",
+        "deleted_at": null,
+        "arquivo": null
+      },
+      {
+        "id": 63,
+        "numero": "098/2015",
+        "contratada": "Trator Técnica Comercial de Peças e Serviços LTDA",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal De Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "4 Meses",
+        "valor": 14495,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote II",
+        "licitacao_id": 69,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2015-09-16 10:25:05",
+        "updated_at": "2017-06-12 15:48:12",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/69'>Ver mais</a>"
+  },
+  {
+    "id": 48,
+    "created_by": 7,
+    "modalidade_id": 6,
+    "tipo_id": 2,
+    "entidade_id": 2,
+    "numero": "035/2015",
+    "numero_processo": "7643/14",
+    "objeto": "Contratação de empresa especializada para prestação de serviços de consultoria na área de controle interno.",
+    "orgao": "COGEM",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2014-12-23 08:51:19",
+    "data_adjudicacao": "2015-01-05 08:51:19",
+    "data_homologacao": "2015-01-05 08:51:19",
+    "created_at": "2015-09-16 08:47:50",
+    "updated_at": "2015-09-16 08:51:19",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Inexigibilidade",
+    "lic_numero": 35,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 6,
+      "descricao": "Inexigibilidade",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 51,
+        "licitacao_id": 48,
+        "objeto": "Contratação de empresa especializada para prestação de serviços de consultoria na área de controle interno.",
+        "vencedor": "Concentra Consultoria e Assessoria LTDA.",
+        "cnpj": "18.761.200/0001-22",
+        "valor": "170004",
+        "created_at": "2015-09-16 08:47:50",
+        "updated_at": "2015-09-16 08:47:50",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 41,
+        "numero": "006/15",
+        "contratada": "Concentra Consultoria e Assessoria LTDA.",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal de Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "05/01/2015 á 31/12/2015",
+        "valor": 170004,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "01",
+        "licitacao_id": 48,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2015-09-16 08:47:50",
+        "updated_at": "2017-06-12 15:48:11",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [],
+    "tipo": {
+      "id": 2,
+      "descricao": "Melhor Técnica",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/48'>Ver mais</a>"
+  },
+  {
+    "id": 67,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "034/2015",
+    "numero_processo": "1368/2015",
+    "objeto": "Contratação de empresa para fornecimento de materiais e equipamentos esportivos de forma parcelada conforme as necessidades da Secretaria de Esporte e Lazer.",
+    "orgao": "Secretaria de Esporte e Lazer",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-07-07 10:25:35",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-08-11 10:25:35",
+    "created_at": "2015-09-16 10:11:05",
+    "updated_at": "2015-09-16 10:25:35",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 34,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 69,
+        "licitacao_id": 67,
+        "objeto": "Contratação de empresa para fornecimento de materiais e equipamentos esportivos de forma parcelada conforme as necessidades da Secretaria de Esporte e Lazer.",
+        "vencedor": "GM Comércio de Confecções e Artigos de Esportes LTDA ME.",
+        "cnpj": "11.926.279/0001-55",
+        "valor": "143638",
+        "created_at": "2015-09-16 10:11:05",
+        "updated_at": "2015-09-16 10:11:05",
+        "deleted_at": null
+      },
+      {
+        "id": 70,
+        "licitacao_id": 67,
+        "objeto": "Contratação de empresa para fornecimento de materiais e equipamentos esportivos de forma parcelada conforme as necessidades da Secretaria de Esporte e Lazer.",
+        "vencedor": "Trinca Esportes LTDA EPP.",
+        "cnpj": "02.902.969/0001-83",
+        "valor": "55000",
+        "created_at": "2015-09-16 10:11:05",
+        "updated_at": "2015-09-16 10:11:05",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 59,
+        "numero": "095/2015",
+        "contratada": "GM Comércio de Confecções e Artigos de Esportes LTDA ME.",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal De Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "4 Meses",
+        "valor": 143638,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote I",
+        "licitacao_id": 67,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2015-09-16 10:11:05",
+        "updated_at": "2017-06-12 15:48:12",
+        "deleted_at": null,
+        "arquivo": null
+      },
+      {
+        "id": 60,
+        "numero": "096/2015",
+        "contratada": "Trinca Esportes LTDA EPP",
+        "contratada_cpf_cnpj": null,
+        "contratante": "PREFEITURA MUNICIPAL DE CANDEAIS",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "4 Meses",
+        "valor": 55000,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote II",
+        "licitacao_id": 67,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2015-09-16 10:11:05",
+        "updated_at": "2017-06-12 15:48:12",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/67'>Ver mais</a>"
+  },
+  {
+    "id": 65,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "033/2015",
+    "numero_processo": "0739/2015",
+    "objeto": "Contratação de empresa para fornecimento parcelado de gêneros alimentícios (Pão francês, pão para cachorro-quente e panetone) para atender a merenda escolar dos estudantes do Município de Candeias.",
+    "orgao": "Secretaria Municipal de Administração",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-07-06 09:54:49",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-08-13 09:54:49",
+    "created_at": "2015-09-16 09:54:49",
+    "updated_at": "2015-09-16 09:54:49",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 33,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 67,
+        "licitacao_id": 65,
+        "objeto": "Contratação de empresa para fornecimento parcelado de gêneros alimentícios (Pão francês, pão para cachorro-quente e panetone) para atender a merenda escolar dos estudantes do Município de Candeias.",
+        "vencedor": "Comercial de Alimentos Carro Cheio LTDA",
+        "cnpj": "08.942.199/0001-89",
+        "valor": "275500",
+        "created_at": "2015-09-16 09:54:49",
+        "updated_at": "2015-09-16 09:54:49",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 57,
+        "numero": "100/2015",
+        "contratada": "Comercial de Alimentos Carro Cheio LTDA",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal De Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "4 Meses",
+        "valor": 275500,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote I",
+        "licitacao_id": 65,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2015-09-16 09:54:49",
+        "updated_at": "2017-06-12 15:48:12",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/65'>Ver mais</a>"
+  },
+  {
+    "id": 54,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "032/2015",
+    "numero_processo": "1759/2015",
+    "objeto": "Contratação de empresa para fornecimento de gás liquefeito de petróleo (GLP), para atender as necessidades do SEMAI, vinculado a SEDUC.",
+    "orgao": "Secretaria Municipal de Administração",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-06-22 09:07:01",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-07-01 09:07:01",
+    "created_at": "2015-09-16 09:07:01",
+    "updated_at": "2015-09-16 09:07:01",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 32,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 57,
+        "licitacao_id": 54,
+        "objeto": "Contratação de empresa para fornecimento de gás liquefeito de petróleo (GLP), para atender as necessidades do SEMAI, vinculado a SEDUC.",
+        "vencedor": "L.C. Lobão Vieira ME",
+        "cnpj": "16.143.364/0001-60",
+        "valor": "109020",
+        "created_at": "2015-09-16 09:07:01",
+        "updated_at": "2015-09-16 09:07:01",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 47,
+        "numero": "082/2015",
+        "contratada": "L.C. Lobão Vieira ME",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal De Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "5 Meses",
+        "valor": 109020,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote I",
+        "licitacao_id": 54,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2015-09-16 09:07:01",
+        "updated_at": "2017-06-12 15:48:11",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/54'>Ver mais</a>"
+  },
+  {
+    "id": 52,
+    "created_by": 8,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "030/2015",
+    "numero_processo": "1235/2015",
+    "objeto": "Contratação de empresa para prestação de serviços de recuperação total da estrutura metálica dos vãos para cobertura, policarbonato e instalação forro PVC do paço Municipal.",
+    "orgao": "Secretaria Municipal de Ifra Estrutura e Obras",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Contrato",
+    "data_realizacao": "2015-07-26 09:02:43",
+    "data_adjudicacao": null,
+    "data_homologacao": "2015-07-09 09:02:43",
+    "created_at": "2015-09-16 09:01:41",
+    "updated_at": "2015-09-16 09:02:43",
+    "deleted_at": null,
+    "dotacao_orcamentaria": null,
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 30,
+    "lic_ano": 2015,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 55,
+        "licitacao_id": 52,
+        "objeto": "Contratação de empresa para prestação de serviços de recuperação total da estrutura metálica dos vãos para cobertura, policarbonato e instalação forro PVC do paço Municipal.",
+        "vencedor": "Meir Serviços e Construções LTDA",
+        "cnpj": "13.665.937/0001-28",
+        "valor": "208140.14",
+        "created_at": "2015-09-16 09:02:25",
+        "updated_at": "2015-09-16 09:02:43",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [
+      {
+        "id": 45,
+        "numero": "088/2015",
+        "contratada": "Meir Serviços e Construções LTDA",
+        "contratada_cpf_cnpj": null,
+        "contratante": "Prefeitura Municipal De Candeias",
+        "contratante_cpf_cnpj": null,
+        "vigencia": "5 Meses",
+        "valor": 208140.14,
+        "licitacao_origem": null,
+        "objeto": null,
+        "lotes": "Lote I",
+        "licitacao_id": 52,
+        "entidade_id": 2,
+        "arquivo_id": null,
+        "created_at": "2015-09-16 09:01:41",
+        "updated_at": "2017-06-12 15:48:11",
+        "deleted_at": null,
+        "arquivo": null
+      }
+    ],
+    "anexos": [],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/52'>Ver mais</a>"
+  }
+]

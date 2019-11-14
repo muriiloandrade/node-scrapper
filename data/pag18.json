@@ -1,0 +1,2558 @@
+[
+  {
+    "id": 1938,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "032/2017",
+    "numero_processo": "2094/2017",
+    "objeto": "Contratação de empresa especializada para Serviços de Coleta, Transporte, Cremação e\r\nDestinação final de ossadas humanas do Cemitério Municipal Recanto da Saudade, para\r\natender às necessidades da Secretaria de Serviços Públicos do Município de Candeias.",
+    "orgao": "SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-09 12:59:02",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 12:55:54",
+    "updated_at": "2017-06-28 12:59:02",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS\r\n• Unidade Orçamentária 11.01 - Secretaria Municipal de Serviços Públicos\r\n• Unidade Gestora 11 - Secretaria Municipal de Serviços Públicos\r\n• Projeto/Atividade 2036 – Manutenção das ações administrativas - SESP\r\n• Elemento de Despesa 3390.39.00.00 – Outros Serviços de Terceiros - PJ\r\n• Fonte de Recursos 00.01.0000 – Tesouro",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 32,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2261,
+        "filename": "EDITAL PP 0322017 - DESCARTE DE OSSADAS (REV).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "291757",
+        "created_at": "2017-06-28 12:58:52",
+        "updated_at": "2017-06-28 12:58:52",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/d45cdaceeaaf9b5f03c5ac46552460d55225d02e.pdf",
+        "pivot": {
+          "licitacao_id": 1938,
+          "arquivo_id": 2261,
+          "created_at": "2017-06-28 12:59:02",
+          "updated_at": "2017-06-28 12:59:02"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1938'>Ver mais</a>"
+  },
+  {
+    "id": 1939,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "031/2017",
+    "numero_processo": "1898/2017",
+    "objeto": "Contratação de empresa para fornecimento de gêneros alimentícios não perecíveis (grãos)\r\npara o preparo da merenda escolar.",
+    "orgao": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-13 13:01:17",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:01:17",
+    "updated_at": "2017-06-28 13:01:17",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE EDUCAÇÃO\r\n• Unidade Orçamentária 18.01 - Secretaria Municipal de Educação\r\n• Unidade Gestora 18 - Secretaria Municipal de Educação\r\n• Projeto/Atividade 2060 – Manutenção do Programa de Alimentação Escolar\r\n• Elemento de Despesa 3390.30.00.00 – Material de consumo\r\n• Fonte de Recursos 00.01.0311 – Receitas de Impostos e Transferências de Impostos",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 31,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2262,
+        "filename": "EDITAL PP 0312017 - GENEROS ALIMENTICIOS MERENDA ESCOLAR - GRAOS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "310634",
+        "created_at": "2017-06-28 12:59:11",
+        "updated_at": "2017-06-28 12:59:11",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/999dc092fa592ce563cb7558217f86f97d2f4e15.pdf",
+        "pivot": {
+          "licitacao_id": 1939,
+          "arquivo_id": 2262,
+          "created_at": "2017-06-28 13:01:17",
+          "updated_at": "2017-06-28 13:01:17"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1939'>Ver mais</a>"
+  },
+  {
+    "id": 1940,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "030/2017",
+    "numero_processo": "1895/2017",
+    "objeto": "Contratação de empresa para fornecimento de gêneros alimentícios não perecíveis\r\n(enlatados) para o preparo da merenda escolar.",
+    "orgao": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-12 13:04:10",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:04:10",
+    "updated_at": "2017-06-28 13:04:10",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE EDUCAÇÃO\r\n• Unidade Orçamentária 18.01 - Secretaria Municipal de Educação\r\n• Unidade Gestora 18 - Secretaria Municipal de Educação\r\n• Projeto/Atividade 2060 – Manutenção do Programa de Alimentação Escolar\r\n• Elemento de Despesa 3390.30.00.00 – Material de consumo\r\n• Fonte de Recursos 00.01.0001 – Receitas de Impostos e Transferências de Impostos",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 30,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2263,
+        "filename": "EDITAL PP 0302017 - GENEROS ALIMENTICIOS MERENDA ESCOLAR - ENLATADOS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "310441",
+        "created_at": "2017-06-28 13:04:00",
+        "updated_at": "2017-06-28 13:04:00",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/213f428d755cb12818e894c803002383a0bfe7fb.pdf",
+        "pivot": {
+          "licitacao_id": 1940,
+          "arquivo_id": 2263,
+          "created_at": "2017-06-28 13:04:10",
+          "updated_at": "2017-06-28 13:04:10"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1940'>Ver mais</a>"
+  },
+  {
+    "id": 1941,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "029/2017",
+    "numero_processo": "1902/2017",
+    "objeto": "Contratação de empresa para fornecimento de gêneros alimentícios não perecíveis\r\n(mercearias) para o preparo da merenda escolar.",
+    "orgao": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-12 13:05:38",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:05:38",
+    "updated_at": "2017-06-28 13:05:38",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE EDUCAÇÃO\r\n• Unidade Orçamentária 18.01 - Secretaria Municipal de Educação\r\n• Unidade Gestora 18 - Secretaria Municipal de Educação\r\n• Projeto/Atividade 2060 – Manutenção do Programa de Alimentação Escolar\r\n• Elemento de Despesa 3390.30.00.00 – Material de consumo\r\n• Fonte de Recursos 00.01.0015 – Transf de Recursos do Fundo Nacional de Des. da Educação - FNDE",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 29,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2264,
+        "filename": "EDITAL PP 0292017 - GENEROS ALIMENTICIOS MERENDA ESCOLAR - MERCEARIAS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "312245",
+        "created_at": "2017-06-28 13:04:36",
+        "updated_at": "2017-06-28 13:04:36",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/7d018fe41fc6609c85c83fff0387428262111e10.pdf",
+        "pivot": {
+          "licitacao_id": 1941,
+          "arquivo_id": 2264,
+          "created_at": "2017-06-28 13:05:38",
+          "updated_at": "2017-06-28 13:05:38"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1941'>Ver mais</a>"
+  },
+  {
+    "id": 1942,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "028/2017",
+    "numero_processo": "1884/2017",
+    "objeto": "Contratação de empresa para fornecimento de gêneros alimentícios perecíveis (proteínas)\r\npara o preparo da merenda escolar.",
+    "orgao": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-09 13:08:12",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:08:12",
+    "updated_at": "2017-06-28 13:08:12",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE EDUCAÇÃO\r\n• Unidade Orçamentária 18.01 - Secretaria Municipal de Educação\r\n• Unidade Gestora 18 - Secretaria Municipal de Educação\r\n• Projeto/Atividade 2060 – Manutenção do Programa de Alimentação Escolar\r\n• Elemento de Despesa 3390.30.00.00 – Material de consumo\r\n• Fonte de Recursos 00.01.0015 – Transf de Recursos do Fundo Nacional de Des. da Educação - FNDE",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 28,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2265,
+        "filename": "EDITAL PP 0282017 - GENEROS ALIMENTICIOS MERENDA ESCOLAR PERECIVEIS - PROTEINAS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "327232",
+        "created_at": "2017-06-28 13:06:20",
+        "updated_at": "2017-06-28 13:06:20",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/3054ccf0d099805bc90963e35903bb8400b31ab1.pdf",
+        "pivot": {
+          "licitacao_id": 1942,
+          "arquivo_id": 2265,
+          "created_at": "2017-06-28 13:08:12",
+          "updated_at": "2017-06-28 13:08:12"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1942'>Ver mais</a>"
+  },
+  {
+    "id": 1943,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "027/2017",
+    "numero_processo": "1901/2017",
+    "objeto": "Contratação de empresa para fornecimento de gêneros alimentícios não perecíveis\r\n(massas) para o preparo da merenda escolar.",
+    "orgao": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-08 13:15:09",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:15:09",
+    "updated_at": "2017-06-28 13:15:09",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE EDUCAÇÃO\r\n• Unidade Orçamentária 18.01 - Secretaria Municipal de Educação\r\n• Unidade Gestora 18 - Secretaria Municipal de Educação\r\n• Projeto/Atividade 2060 – Manutenção do Programa de Alimentação Escolar\r\n• Elemento de Despesa 3390.30.00.00 – Material de consumo\r\n• Fonte de Recursos 00.01.0001 – Receitas de Impostos e Transferências de Impostos",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 27,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2266,
+        "filename": "EDITAL PP 0272017 - GENEROS ALIMENTICIOS MERENDA ESCOLAR - MASSAS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "307911",
+        "created_at": "2017-06-28 13:13:30",
+        "updated_at": "2017-06-28 13:13:30",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/5e01d26e9eaea5543568bf2b46ad30985c570847.pdf",
+        "pivot": {
+          "licitacao_id": 1943,
+          "arquivo_id": 2266,
+          "created_at": "2017-06-28 13:15:09",
+          "updated_at": "2017-06-28 13:15:09"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1943'>Ver mais</a>"
+  },
+  {
+    "id": 1944,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "026/2017",
+    "numero_processo": "1900/2017",
+    "objeto": "Contratação de empresa para fornecimento de gêneros alimentícios não perecíveis (sucos)\r\npara o preparo da merenda escolar.",
+    "orgao": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-08 13:17:27",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:17:09",
+    "updated_at": "2017-06-28 13:17:27",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE EDUCAÇÃO\r\n• Unidade Orçamentária 18.01 - Secretaria Municipal de Educação\r\n• Unidade Gestora 18 - Secretaria Municipal de Educação\r\n• Projeto/Atividade 2060 – Manutenção do Programa de Alimentação Escolar\r\n• Elemento de Despesa 3390.30.00.00 – Material de consumo\r\n• Fonte de Recursos 00.01.0015 – Transf. De Recursos do Fundo Nacional de Des. Da Educação - FNDE",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 26,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2268,
+        "filename": "EDITAL PP 0262017 - GENEROS ALIMENTICIOS MERENDA ESCOLAR - SUCOS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "308128",
+        "created_at": "2017-06-28 13:17:23",
+        "updated_at": "2017-06-28 13:17:23",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/b14db4056bd4e3c33bc5d94bfaeee66b5e1725c3.pdf",
+        "pivot": {
+          "licitacao_id": 1944,
+          "arquivo_id": 2268,
+          "created_at": "2017-06-28 13:17:27",
+          "updated_at": "2017-06-28 13:17:27"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1944'>Ver mais</a>"
+  },
+  {
+    "id": 1945,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "025/2017",
+    "numero_processo": "1897/2017",
+    "objeto": "Contratação de empresa para fornecimento de gêneros alimentícios não perecíveis\r\n(condimentos) para o preparo da merenda escolar.",
+    "orgao": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-07 13:18:52",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:18:52",
+    "updated_at": "2017-06-28 13:18:52",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE EDUCAÇÃO\r\n• Unidade Orçamentária 18.01 - Secretaria Municipal de Educação\r\n• Unidade Gestora 18 - Secretaria Municipal de Educação\r\n• Projeto/Atividade 2060 – Manutenção do Programa de Alimentação Escolar\r\n• Elemento de Despesa 3390.30.00.00 – Material de consumo\r\n• Fonte de Recursos 00.01.0251 – Receitas de Impostos e Transferências de Impostos",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 25,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2269,
+        "filename": "EDITAL PP 0252017 - GENEROS ALIMENTICIOS MERENDA ESCOLAR - CONDIMENTOS - LC 123.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "312496",
+        "created_at": "2017-06-28 13:17:47",
+        "updated_at": "2017-06-28 13:17:47",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/24bdb466817bbc3a6691ba1f6052da9a2dcb7b9a.pdf",
+        "pivot": {
+          "licitacao_id": 1945,
+          "arquivo_id": 2269,
+          "created_at": "2017-06-28 13:18:52",
+          "updated_at": "2017-06-28 13:18:52"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1945'>Ver mais</a>"
+  },
+  {
+    "id": 1946,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "024/2017",
+    "numero_processo": "1896/2017",
+    "objeto": "Contratação de empresa para fornecimento de gêneros alimentícios não perecíveis (biscoitos)\r\npara o preparo da merenda escolar.",
+    "orgao": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-07 13:20:25",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:20:25",
+    "updated_at": "2017-06-28 13:20:25",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE EDUCAÇÃO\r\n• Unidade Orçamentária 18.01 - Secretaria Municipal de Educação\r\n• Unidade Gestora 18 - Secretaria Municipal de Educação\r\n• Projeto/Atividade 2060 – Manutenção do Programa de Alimentação Escolar\r\n• Elemento de Despesa 3390.30.00.00 – Material de consumo\r\n• Fonte de Recursos 00.01.0015 – Transferências FNDE",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 24,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2270,
+        "filename": "EDITAL PP 0242017 - GENEROS ALIMENTICIOS MERENDA ESCOLAR - BISCOITOS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "305624",
+        "created_at": "2017-06-28 13:19:11",
+        "updated_at": "2017-06-28 13:19:11",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1d0a3c3584052d8c2e9cef6f6d11f3e2e5e2376b.pdf",
+        "pivot": {
+          "licitacao_id": 1946,
+          "arquivo_id": 2270,
+          "created_at": "2017-06-28 13:20:25",
+          "updated_at": "2017-06-28 13:20:25"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1946'>Ver mais</a>"
+  },
+  {
+    "id": 1947,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "023/2017",
+    "numero_processo": "1899/2017",
+    "objeto": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE GÊNEROS ALIMENTÍCIOS\r\nPERECÍVEIS (LATICÍNIOS) PARA O PREPARO DA MERENDA ESCOLAR.",
+    "orgao": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-13 13:23:02",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:23:02",
+    "updated_at": "2017-06-28 13:23:02",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE EDUCAÇÃO\r\n• Unidade Orçamentária 18.01 - Secretaria Municipal de Educação\r\n• Unidade Gestora 18 - Secretaria Municipal de Educação\r\n• Projeto/Atividade 2060 – Manutenção do Programa de Alimentação Escolar\r\n• Elemento de Despesa 3390.30.00.00 – Material de consumo\r\n• Fonte de Recursos 00.01.0231 – Receitas de Impostos e Transferências de Impostos",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 23,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2271,
+        "filename": "EDITAL PP 0232017 - GENEROS ALIMENTICIOS MERENDA ESCOLAR PERECIVEIS - LATICINIOS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "315894",
+        "created_at": "2017-06-28 13:20:53",
+        "updated_at": "2017-06-28 13:20:53",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/b423d117ca3c7ea1ab2f2c120356deb67de99762.pdf",
+        "pivot": {
+          "licitacao_id": 1947,
+          "arquivo_id": 2271,
+          "created_at": "2017-06-28 13:23:02",
+          "updated_at": "2017-06-28 13:23:02"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1947'>Ver mais</a>"
+  },
+  {
+    "id": 1948,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "022/2017",
+    "numero_processo": "2029/2017",
+    "objeto": "Contratação de empresa para Fornecimento de Materiais de Construção, Hidráulicos, Pintura e Cobertura para Serviços Emergenciais de Manutenção no Hospital Municipal José Mário dos Santos, no Bairro Ouro Negro no Município de Candeias.",
+    "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS/SECRETARIA DE SAÚDE",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-05-30 14:13:58",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:25:21",
+    "updated_at": "2017-06-28 14:13:58",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE SAÚDE\r\n• Unidade Orçamentária 20.02 - Fundo Municipal de Saúde\r\n• Unidade Gestora 20 - Secretaria Municipal de Infraestrutura e Obras\r\n• Projeto/Atividade 2069 – Administração do Hospital Municipal\r\n• Elemento de Despesa 3390.30.00.00 – Material de consumo\r\n• Fonte de Recursos 00.01.0002 – Receitas de Impostos e Transferências de Impostos",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 22,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2272,
+        "filename": "EDITAL PP 0222017 - MATERIAL DE CONSTRUÇÃO HOSPITAL.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "693979",
+        "created_at": "2017-06-28 13:23:43",
+        "updated_at": "2017-06-28 13:23:43",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/f900c57bab6d95bfd43d41ef3e534410605df2df.pdf",
+        "pivot": {
+          "licitacao_id": 1948,
+          "arquivo_id": 2272,
+          "created_at": "2017-06-28 13:25:21",
+          "updated_at": "2017-06-28 13:25:21"
+        }
+      },
+      {
+        "id": 2286,
+        "filename": "ANEXO 5 - PP 0222017 PLANILHA MATERIAIS DE CONSTRUCAO HOSPITAL.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "27018",
+        "created_at": "2017-06-28 14:13:55",
+        "updated_at": "2017-06-28 14:13:55",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/00b6bd7087da20de62807daecf734860f03cb476.pdf",
+        "pivot": {
+          "licitacao_id": 1948,
+          "arquivo_id": 2286,
+          "created_at": "2017-06-28 14:13:58",
+          "updated_at": "2017-06-28 14:13:58"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1948'>Ver mais</a>"
+  },
+  {
+    "id": 1949,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "021/2017",
+    "numero_processo": "0958/2017",
+    "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE PRODUÇÃO GRÁFICA,\r\nINCLUINDO O ACABAMENTO, PAPEL E TODO O MATERIAL DE SUPRIMENTO, PARA\r\nATENDER AS DEMANDAS DA PREFEITURA MUNICIPAL DE CANDEIAS-BA",
+    "orgao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-07 13:27:59",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:27:59",
+    "updated_at": "2017-06-28 13:27:59",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE GOVERNO E GESTÃO - SEGOGE\r\n• Unidade Orçamentária 02 – Secretaria de Governo e Gestão\r\n• Unidade Gestora 02.01 – Secretaria de Governo e Gestão\r\n• Projeto/Atividade 2003 – Manutenção dos Serviços Técnicos e Administrativos\r\n• Elemento de Despesa 3390.39.00.00 – Outros Serviços de Terceiros – Pessoa Jurídica\r\n• Fonte de Recursos 00.01.0000 – Recursos Ordinários - Tesouro",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 21,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2273,
+        "filename": "EDITAL PP 0212017 - PRODUCAO GRAFICA (REVISADO).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "276321",
+        "created_at": "2017-06-28 13:25:40",
+        "updated_at": "2017-06-28 13:25:40",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/f81220b90aa2b0779f7bccced775edd7f9c90b43.pdf",
+        "pivot": {
+          "licitacao_id": 1949,
+          "arquivo_id": 2273,
+          "created_at": "2017-06-28 13:27:59",
+          "updated_at": "2017-06-28 13:27:59"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1949'>Ver mais</a>"
+  },
+  {
+    "id": 1950,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "020/2017",
+    "numero_processo": "1183/2017",
+    "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA FORNECIMENTO DE CESTAS BÁSICAS, PARA ATENDER AS DEMANDAS DA SECRETARIA DE DESENVOLVIMENTO SOCIAL DO MUNICÍPIO DE CANDEIAS.",
+    "orgao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-05-30 14:13:20",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:30:07",
+    "updated_at": "2017-06-28 14:13:20",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL\r\n• Unidade Orçamentária 09\r\n• Unidade Gestora 09.01\r\n• Projeto/Atividade 2023\r\n• Elemento de Despesa 3390.32.00.00\r\n• Fonte de Recursos 00.01.0000",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 20,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2274,
+        "filename": "EDITAL PP 0202017 - AQUISIÇÃO DE CESTAS BASICAS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "704831",
+        "created_at": "2017-06-28 13:28:38",
+        "updated_at": "2017-06-28 13:28:38",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/b56928416416bdc53783af95f7d38e9e02b1064a.pdf",
+        "pivot": {
+          "licitacao_id": 1950,
+          "arquivo_id": 2274,
+          "created_at": "2017-06-28 13:30:07",
+          "updated_at": "2017-06-28 13:30:07"
+        }
+      },
+      {
+        "id": 2285,
+        "filename": "ANEXO 5 - PP 0202017 PLANILHA CESTA BASICA(1).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "37034",
+        "created_at": "2017-06-28 14:13:15",
+        "updated_at": "2017-06-28 14:13:15",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/64c2f768809a2255dd22610a582d65ffeb2bde0c.pdf",
+        "pivot": {
+          "licitacao_id": 1950,
+          "arquivo_id": 2285,
+          "created_at": "2017-06-28 14:13:20",
+          "updated_at": "2017-06-28 14:13:20"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1950'>Ver mais</a>"
+  },
+  {
+    "id": 1951,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "019/2017",
+    "numero_processo": "1396/2017",
+    "objeto": "AQUISIÇÃO DE PAPEL A4 PARA ATENDER AS DEMANDAS DA PREFEITURA MUNICIPAL\r\nDE CANDEIAS-BA",
+    "orgao": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO - SECAD/ SECRETARIA MUNICIPAL DE SAÚDE - SESAU",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-05-18 13:32:19",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:32:19",
+    "updated_at": "2017-06-28 13:32:19",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO - SECAD\r\n• Unidade Orçamentária 06 – Secretaria de Administração\r\n• Unidade Gestora 06.01 – Secretaria de Administração\r\n• Projeto/Atividade 2014 – Manutenção dos Serviços Técnicos e Administrativos - SECAD\r\n• Elemento de Despesa 3390.30.00.00 – Material de Consumo\r\n• Fonte de Recursos 00.01.0000 – Recursos Ordinários - Tesouro\r\nSECRETARIA MUNICIPAL DE SAÚDE - SESAU\r\n• Unidade Orçamentária 20 – Secretaria de Saúde\r\n• Unidade Gestora 06.01 – Secretaria de Saúde\r\n• Projeto/Atividade 2077 – Manutenção dos Serviços Técnicos e Administrativos - SESAU\r\n• Elemento de Despesa 3390.30.00.00 – Material de Consumo\r\n• Fonte de Recursos 00.01.0000 – Receitas de Impostos e Transferências de Impostos – Saúde 15%",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 19,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2275,
+        "filename": "EDITAL PP 0192017 - AQUISIÇÃO DE PAPEL A4.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "698688",
+        "created_at": "2017-06-28 13:30:33",
+        "updated_at": "2017-06-28 13:30:33",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/895ec89aa1dfe5afda83114823ea4499763ff97a.pdf",
+        "pivot": {
+          "licitacao_id": 1951,
+          "arquivo_id": 2275,
+          "created_at": "2017-06-28 13:32:19",
+          "updated_at": "2017-06-28 13:32:19"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1951'>Ver mais</a>"
+  },
+  {
+    "id": 1952,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "018/2017",
+    "numero_processo": "1343/2017",
+    "objeto": "AQUISIÇÃO DE MATERIAIS E EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL E COLETIVA\r\nPARA AS AÇÕES DE PREVENÇÃO E CORREÇÃO DE DANOS DE USO DA DEFESA CIVIL DO\r\nMUNICÍPIO DE CANDEIAS.",
+    "orgao": "SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-05-19 13:33:51",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:33:51",
+    "updated_at": "2017-06-28 13:33:51",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS\r\n• Unidade Orçamentária 11 – Secretaria Municipal de Serviços Públicos\r\n• Unidade Gestora 11.01 - Secretaria Municipal de Serviços Públicos\r\n• Projeto/Atividade 2036 – Manutenção dos Serviços Técnicos e Administrativos - SESP\r\n• Elemento de Despesa 3390.30.00.00 – Material de Consumo\r\n• Fonte de Recursos 00.01.0000 – Recursos Ordinários",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 18,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2276,
+        "filename": "EDITAL PP 0182017 - AQUISIÇÃO DE EPIS DEFESA CIVIL RELANÇADO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "358680",
+        "created_at": "2017-06-28 13:32:38",
+        "updated_at": "2017-06-28 13:32:38",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/8bde18df7067de17ae6b37b1d3e2c9a1dce2adab.pdf",
+        "pivot": {
+          "licitacao_id": 1952,
+          "arquivo_id": 2276,
+          "created_at": "2017-06-28 13:33:51",
+          "updated_at": "2017-06-28 13:33:51"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1952'>Ver mais</a>"
+  },
+  {
+    "id": 1953,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "017/2017",
+    "numero_processo": "1539/2017",
+    "objeto": "Contratação de empresa para fornecimento de materiais para conservação do sistema\r\nviário e abertura de novas vias no município de Candeias - BA.",
+    "orgao": "SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-05-18 13:35:42",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:35:42",
+    "updated_at": "2017-06-28 13:35:42",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS\r\n• Unidade Orçamentária 11.01 - Secretaria Municipal de Serviços Públicos\r\n• Unidade Gestora 11 - Secretaria Municipal de Serviços Públicos\r\n• Projeto/Atividade 2036 – Manutenção das ações administrativas da SESP\r\n• Elemento de Despesa 3390.30.00.00 – Material de Consumo\r\n• Fonte de Recursos 00.01.0000 – Tesouro",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 17,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2277,
+        "filename": "EDITAL PP 0172017 - AQUISIÇÃO DE MATERIAL PARA CONSERVAÇÃO RODOVIÁRIA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "429844",
+        "created_at": "2017-06-28 13:34:12",
+        "updated_at": "2017-06-28 13:34:12",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/8dcf374286c91f3ea843018df1e1a3dada49ee53.pdf",
+        "pivot": {
+          "licitacao_id": 1953,
+          "arquivo_id": 2277,
+          "created_at": "2017-06-28 13:35:42",
+          "updated_at": "2017-06-28 13:35:42"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1953'>Ver mais</a>"
+  },
+  {
+    "id": 1954,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "016/2017",
+    "numero_processo": "1373/2017",
+    "objeto": "Contratação de empresa para locação e operação de máquinas e equipamentos para\r\nmanutenção e conservação de vias de terra, realização de serviços gerais de\r\nterraplenagem, preventiva e corretiva, na malha viária desprovida de pavimentação\r\ne/ou como apoio aos serviços gerais de infra-estrutura, limpeza de canais e córregos no\r\nMunicípio de Candeias-Ba.",
+    "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS/ SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-05-04 14:12:53",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:37:18",
+    "updated_at": "2017-06-28 14:12:53",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS\r\n• Unidade Orçamentária 10.01 - Secretaria Municipal de Infraestrutura e Obras\r\n• Unidade Gestora 10 - Secretaria Municipal de Infraestrutura e Obras\r\n• Projeto/Atividade 1017 – Urbanização e Pavimentação de Vias Públicas\r\n• Elemento de Despesa 3390.39.00.00 – Outros Serviços de Terceiros - PJ\r\n• Fonte de Recursos 00.01.0000 – Tesouro\r\n• Fonte de Recursos 00.01.0042 – Recursos Royalties\r\nSECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS\r\n• Unidade Orçamentária 11.01 - Secretaria Municipal de Serviços Públicos\r\n• Unidade Gestora 11 - Secretaria Municipal de Serviços Públicos\r\n• Projeto/Atividade 2036 – Manutenção das ações administrativas da SESP\r\n• Elemento de Despesa 3390.39.00.00 – Outros Serviços de Terceiros - PJ\r\n• Fonte de Recursos 00.01.0000 – Tesouro\r\n• Fonte de Recursos 00.01.0042 – Recursos Royalties",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 16,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2278,
+        "filename": "EDITAL PP 0162017 - LOCAÇÃO DE MAQUINAS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "436996",
+        "created_at": "2017-06-28 13:36:05",
+        "updated_at": "2017-06-28 13:36:05",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2f06174b00a65af8c35494e6e63da55df986f950.pdf",
+        "pivot": {
+          "licitacao_id": 1954,
+          "arquivo_id": 2278,
+          "created_at": "2017-06-28 13:37:18",
+          "updated_at": "2017-06-28 13:37:18"
+        }
+      },
+      {
+        "id": 2284,
+        "filename": "ANEXO 4 - PP 0162017 ALUGUEL DE EQUIPAMENTOS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "110920",
+        "created_at": "2017-06-28 14:12:21",
+        "updated_at": "2017-06-28 14:12:21",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/426d7d57ad0a4a68add150768be9270bcde3ab24.pdf",
+        "pivot": {
+          "licitacao_id": 1954,
+          "arquivo_id": 2284,
+          "created_at": "2017-06-28 14:12:54",
+          "updated_at": "2017-06-28 14:12:54"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1954'>Ver mais</a>"
+  },
+  {
+    "id": 1955,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "015/2017",
+    "numero_processo": "1345/2017",
+    "objeto": "AQUISIÇÃO DE MATERIAIS DIVERSOS, PARA AS AÇÕES DE PREVENÇÃO E CORREÇÃO DE\r\nDANOS DE USO DA DEFESA CIVIL DO MUNICÍPIO DE CANDEIAS.",
+    "orgao": "SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-05-03 13:39:14",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:39:14",
+    "updated_at": "2017-06-28 13:39:14",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS\r\n• Unidade Orçamentária 11 – Secretaria Municipal de Serviços Públicos\r\n• Unidade Gestora 11.01 - Secretaria Municipal de Serviços Públicos\r\n• Projeto/Atividade 2036 – Manutenção dos serviços técnicos e administrativos - SESP\r\n• Elemento de Despesa 3390.30.00.00 – Material de Consumo\r\n• Fonte de Recursos 00.01.0000 – Recursos Ordinários",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 15,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2279,
+        "filename": "EDITAL PP 0152017 - AQUISIÇÃO DE MATERIAIS DIVERSOS-DEFESA CIVIL.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "349646",
+        "created_at": "2017-06-28 13:38:02",
+        "updated_at": "2017-06-28 13:38:02",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/ace637f00723697d0c1329ea19cc153f6da2e803.pdf",
+        "pivot": {
+          "licitacao_id": 1955,
+          "arquivo_id": 2279,
+          "created_at": "2017-06-28 13:39:15",
+          "updated_at": "2017-06-28 13:39:15"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1955'>Ver mais</a>"
+  },
+  {
+    "id": 1956,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "014/2017",
+    "numero_processo": "1343/2017",
+    "objeto": "AQUISIÇÃO DE MATERIAIS E EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL E COLETIVA\r\nPARA AS AÇÕES DE PREVENÇÃO E CORREÇÃO DE DANOS DE USO DA DEFESA CIVIL DO\r\nMUNICÍPIO DE CANDEIAS.",
+    "orgao": "SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-05-03 13:42:00",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:42:00",
+    "updated_at": "2017-06-28 13:42:00",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE SERVIÇOS PÚBLICOS\r\n• Unidade Orçamentária 11 – Secretaria Municipal de Serviços Públicos\r\n• Unidade Gestora 11.01 - Secretaria Municipal de Serviços Públicos\r\n• Projeto/Atividade 2036 – Manutenção dos Serviços Técnicos e Administrativos - SESP\r\n• Elemento de Despesa 3390.30.00.00 – Material de Consumo\r\n• Fonte de Recursos 00.01.0000 – Recursos Ordinários",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 14,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2280,
+        "filename": "EDITAL PP 0142017 - AQUISIÇÃO DE EPIS DEFESA CIVIL.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "363445",
+        "created_at": "2017-06-28 13:39:42",
+        "updated_at": "2017-06-28 13:39:42",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/3e1d012e1b30b22eb515553785b0225b43c172e2.pdf",
+        "pivot": {
+          "licitacao_id": 1956,
+          "arquivo_id": 2280,
+          "created_at": "2017-06-28 13:42:00",
+          "updated_at": "2017-06-28 13:42:00"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1956'>Ver mais</a>"
+  },
+  {
+    "id": 1957,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "0011/2017",
+    "numero_processo": "0378/2017",
+    "objeto": "Aquisição de Água Mineral em copo de 200 ml e em garrafão de vinte (20) litros para\r\natender as demandas das unidades da Administração Municipal.",
+    "orgao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-03-07 13:44:06",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 13:44:06",
+    "updated_at": "2017-06-28 13:44:06",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL\r\n• Unidade Orçamentária 18.01\r\n• Unidade Gestora 18\r\n• Projeto/Atividade 2061\r\n• Elemento de Despesa 3390.32.00.00\r\n• Fonte de Recursos 00.01.0000",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 11,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2281,
+        "filename": "EDITAL PP 0112017 - AQUISIÇÃO DE AGUA MINERAL.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "259335",
+        "created_at": "2017-06-28 13:42:43",
+        "updated_at": "2017-06-28 13:42:43",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1e4ac3d90ed2a70edb2ee167c85488ed164cf39b.pdf",
+        "pivot": {
+          "licitacao_id": 1957,
+          "arquivo_id": 2281,
+          "created_at": "2017-06-28 13:44:06",
+          "updated_at": "2017-06-28 13:44:06"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1957'>Ver mais</a>"
+  },
+  {
+    "id": 1966,
+    "created_by": 37,
+    "modalidade_id": 12,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "008/2017",
+    "numero_processo": "2200/2017",
+    "objeto": "Contratação de empresa para elaboração de projetos e consultoria de arquitetura e\r\nengenharia para reforma e adequação do Hospital Municipal José Mario dos Santos no\r\nMunicípio de Candeias-Ba.",
+    "orgao": "SECRETARIA MUNICIPAL DE SAÚDE",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-20 14:53:09",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 14:53:09",
+    "updated_at": "2017-06-28 14:53:09",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE SAÚDE\r\n• Unidade Orçamentária 20.01 - Secretaria Municipal de Saúde\r\n• Unidade Gestora 20 - Secretaria Municipal de Saúde\r\n• Projeto/Atividade 2069 – Manutenção dos serviços técnicos e administrativos\r\n• Elemento de Despesa 3390.39.00.00 – Outros Serviços de Terceiros - PJ\r\n• Fonte de Recursos 00.01.0002 – Tesouro",
+    "modalidade_descricao": "Tomada de Preços",
+    "lic_numero": 8,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 12,
+      "descricao": "Tomada de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2303,
+        "filename": "EDITAL TP 0082017 - ELABORAÇÃO DE PROJETOS E CONSULTORIAS HOSPITAL.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "418317",
+        "created_at": "2017-06-28 14:52:14",
+        "updated_at": "2017-06-28 14:52:14",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/3b0c2913841d6a7a2db0036d48097ccfa5542903.pdf",
+        "pivot": {
+          "licitacao_id": 1966,
+          "arquivo_id": 2303,
+          "created_at": "2017-06-28 14:53:09",
+          "updated_at": "2017-06-28 14:53:09"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1966'>Ver mais</a>"
+  },
+  {
+    "id": 1969,
+    "created_by": 37,
+    "modalidade_id": 12,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "007/2017",
+    "numero_processo": "1980/2017",
+    "objeto": "Contratação de Empresa de Engenharia Especializada na Execução dos Serviços Remanescentes de Contenção de Encostas na Comunidade VILA BENEDITO MAGALHÃES, no Município de Candeias, Bahia.",
+    "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-22 15:25:46",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 15:10:08",
+    "updated_at": "2017-06-28 15:25:46",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS\r\n• Unidade Orçamentária 10.01 - Secretaria Municipal de Infraestrutura e Obras\r\n• Unidade Gestora 10 - Secretaria Municipal de Infraestrutura e Obras\r\n• Projeto/Atividade 1019 – Urbanização, Regularização e Integração de Assentamentos Precários em Vila Benedito\r\n• Elemento de Despesa 4490.51.00.00 – Obras e Instalações\r\n• Fonte de Recursos 00.01.0000 – Recursos Tesouro\r\n00.01.0024 – Recursos Convênio",
+    "modalidade_descricao": "Tomada de Preços",
+    "lic_numero": 7,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 12,
+      "descricao": "Tomada de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2307,
+        "filename": "EDITAL TP 0072017 - CONTENÇÃO DE ENCOSTAS - VILA BENEDITO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "623056",
+        "created_at": "2017-06-28 15:08:09",
+        "updated_at": "2017-06-28 15:08:09",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2fe7bbb5c83fa0e2f5a3d6fb5e5897c25d926f19.pdf",
+        "pivot": {
+          "licitacao_id": 1969,
+          "arquivo_id": 2307,
+          "created_at": "2017-06-28 15:10:08",
+          "updated_at": "2017-06-28 15:10:08"
+        }
+      },
+      {
+        "id": 2308,
+        "filename": "Administração contenção.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "205644",
+        "created_at": "2017-06-28 15:24:54",
+        "updated_at": "2017-06-28 15:24:54",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/83de0642beefb64e7c550bc07918d947fd328c65.pdf",
+        "pivot": {
+          "licitacao_id": 1969,
+          "arquivo_id": 2308,
+          "created_at": "2017-06-28 15:25:47",
+          "updated_at": "2017-06-28 15:25:47"
+        }
+      },
+      {
+        "id": 2309,
+        "filename": "DECLARACAO - PROCESSO LICITATORIOS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "76595",
+        "created_at": "2017-06-28 15:24:55",
+        "updated_at": "2017-06-28 15:24:55",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/483b1ebc584972354cdc03a2ab772c3163860a3f.pdf",
+        "pivot": {
+          "licitacao_id": 1969,
+          "arquivo_id": 2309,
+          "created_at": "2017-06-28 15:25:47",
+          "updated_at": "2017-06-28 15:25:47"
+        }
+      },
+      {
+        "id": 2310,
+        "filename": "Declaração BDI.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "526891",
+        "created_at": "2017-06-28 15:24:57",
+        "updated_at": "2017-06-28 15:24:57",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/29c889d7201722e80da24eca7040a9d72d4fad8c.pdf",
+        "pivot": {
+          "licitacao_id": 1969,
+          "arquivo_id": 2310,
+          "created_at": "2017-06-28 15:25:47",
+          "updated_at": "2017-06-28 15:25:47"
+        }
+      },
+      {
+        "id": 2311,
+        "filename": "DECLARAÇÃO DA CONTENÇÃO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "199736",
+        "created_at": "2017-06-28 15:24:58",
+        "updated_at": "2017-06-28 15:24:58",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/136520f021e7e81a478a8692c43b4346d4590e95.pdf",
+        "pivot": {
+          "licitacao_id": 1969,
+          "arquivo_id": 2311,
+          "created_at": "2017-06-28 15:25:47",
+          "updated_at": "2017-06-28 15:25:47"
+        }
+      },
+      {
+        "id": 2313,
+        "filename": "MEMORIAL DE CÁLCULO FINAL.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "65803",
+        "created_at": "2017-06-28 15:24:59",
+        "updated_at": "2017-06-28 15:24:59",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/928c0d663ac51ab0721f2346633c4e8eff819a2c.pdf",
+        "pivot": {
+          "licitacao_id": 1969,
+          "arquivo_id": 2313,
+          "created_at": "2017-06-28 15:25:47",
+          "updated_at": "2017-06-28 15:25:47"
+        }
+      },
+      {
+        "id": 2314,
+        "filename": "MEMORIAL DESCRITIVO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "153164",
+        "created_at": "2017-06-28 15:25:00",
+        "updated_at": "2017-06-28 15:25:00",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/a9c0cd45c8aa3110a44c692d14f1c436a971102a.pdf",
+        "pivot": {
+          "licitacao_id": 1969,
+          "arquivo_id": 2314,
+          "created_at": "2017-06-28 15:25:47",
+          "updated_at": "2017-06-28 15:25:47"
+        }
+      },
+      {
+        "id": 2315,
+        "filename": "Planilha exec de obras de urbanização comunidade - Contenção.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "114095",
+        "created_at": "2017-06-28 15:25:01",
+        "updated_at": "2017-06-28 15:25:01",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1bec28ce9163c1036908f307f2666d72589f6a53.pdf",
+        "pivot": {
+          "licitacao_id": 1969,
+          "arquivo_id": 2315,
+          "created_at": "2017-06-28 15:25:47",
+          "updated_at": "2017-06-28 15:25:47"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1969'>Ver mais</a>"
+  },
+  {
+    "id": 2032,
+    "created_by": 37,
+    "modalidade_id": 9,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "007/2017",
+    "numero_processo": "1152/2017",
+    "objeto": "O presente Termo de Referência visa orientar a comissão de licitação, cujo objeto é Registro de Preços para aquisição de material médico hospitalar, para atender às necessidades da Secretaria Municipal de Saúde da cidade de Candeias",
+    "orgao": "SECRETARIA DE SAÚDE",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-03-20 12:30:54",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-29 12:30:54",
+    "updated_at": "2017-06-29 12:30:54",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "Órgão: 20 - SECRETARIA MUNICIPAL DE SAÚDE - SESAU\r\nUnidade: 20.20 - FUNDO MUNICIPAL DE SAÚDE\r\nFuncional - 10.302.0011 - Assistência Hospitalar e Ambulatorial\r\n10.122.0018 - Administração Geral\r\n10.304.0011 - Vigilância Sanitária\r\n10.301.0011 - Atenção Básica\r\n\r\nProjeto/ Atividade - 2069 - Administração do Hospital Municipal\r\n2068 - Manutenção do Centro de Especialidades Odontológicas - CEO\r\n2073 - Manutenção das Ações da Vigilância Sanitária e Epidemiológica\r\n2074 - Manutenção do Serviço Móvel de Urgência - SAMU\r\n2077 - Manutenção de Serviços Técnicos Administrativos - FMS\r\n2080 - Manutenção de Unidades Básicas de Saúde\r\n \r\nElemento: 3390.30.00.00 - Material de Consumo\r\nRecurso: 0014.0000 - Rec. Vinculados \r\n0002.000 - Saúde 15%\r\n\r\nCódigo Reduzido: 21, 21, 32, 33, 62, 63, 69, 70 , 83, 84, 115, 116",
+    "modalidade_descricao": "Pregão Presencial",
+    "lic_numero": 7,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 9,
+      "descricao": "Pregão Presencial",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 659,
+        "licitacao_id": 2032,
+        "objeto": "FILME 24 X 30 CM [Descrição: FILME, RADIOLÓGICO, BASE VERDE, DIMENSÕES 24 X 30 CM. EMBALAGEM COM DADOS DE IDENTIFICAÇÃO DO PRODUTO, PROCEDÊNCIA, DATA DE FABRICAÇÃO E TEMPO DE VALIDADE - CAIXA COM 100 PELÍCULAS]/ FILME 30 X 40 CM [Descrição: FILME, RADIOLÓGICO, BASE VERDE, DIMENSÕES 30 X 40 CM. EMBALAGEM COM DADOS DE IDENTIFICAÇÃO DO PRODUTO, PROCEDÊNCIA, DATA DE FABRICAÇÃO E TEMPO DE VALIDADE - CAIXA COM 100 PELÍCULAS]/ FILME 35 X 35 CM [Descrição: FILME, RADIOLÓGICO, BASE VERDE, DIMENSÕES 35 X 35 CM. EMBALAGEM COM DADOS DE IDENTIFICAÇÃO DO PRODUTO, PROCEDÊNCIA, DATA DE FABRICAÇÃO E TEMPO DE VALIDADE - CAIXA COM 100 PELÍCULAS]/  FILME 35 X 43 CM [Descrição: FILME, RADIOLÓGICO, BASE VERDE, DIMENSÕES 35 X 43 CM. EMBALAGEM COM DADOS DE IDENTIFICAÇÃO DO PRODUTO, PROCEDÊNCIA, DATA DE FABRICAÇÃO E TEMPO DE VALIDADE - CAIXA COM 100 PELÍCULAS]/ FIXADOR AUTOMÁTICO [Descrição: FIXADOR, PARA PROCESSAMENTO AUTOMÁTICO DE FILMES RADIOLÓGICOS. EMBALAGEM COM 38 LITROS, COM DADOS DE IDENTIFICAÇÃO DO PRODUTO, MARCA DO FABRICANTE, DATA DE FABRICAÇÃO E PRAZO DE VALIDADE – UNIDADE]/ REVELADOR AUTOMÁTICO [Descrição: REVELADOR PARA PROCESSAMENTO AUTOMÁTICO DE FILMES RADIOLÓGICOS. EMBALAGEM COM 38 LITROS, COM DADOS DE IDENTIFICAÇÃO DO PRODUTO, MARCA DO FABRICANTE, DATA DE FABRICAÇÃO, PRAZO DE VALIDADE E REGISTRO NO MINISTÉRIO DA SAÚDE – UNIDADE]",
+        "vencedor": "IBF Indústria Brasileira de Filmes",
+        "cnpj": "",
+        "valor": "94650",
+        "created_at": "2017-06-29 12:30:55",
+        "updated_at": "2017-06-29 12:30:55",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2436,
+        "filename": "007-17PP-1-28.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "3769416",
+        "created_at": "2017-06-29 12:00:51",
+        "updated_at": "2017-06-29 12:00:51",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2d1aff4ccc0a4bbd2fbf702191c74ef5dd6da8b5.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2436,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2437,
+        "filename": "007-17PPSA-1.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4461828",
+        "created_at": "2017-06-29 12:01:01",
+        "updated_at": "2017-06-29 12:01:01",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/3e285701094a37e33589924f3ee91126f2c9481b.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2437,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2438,
+        "filename": "007-17PPSA-2.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "3488374",
+        "created_at": "2017-06-29 12:01:06",
+        "updated_at": "2017-06-29 12:01:06",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/0a0dc6cc309dab16a7637a7e2674d92979e35828.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2438,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2439,
+        "filename": "007-17PPSA-3.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4087520",
+        "created_at": "2017-06-29 12:01:13",
+        "updated_at": "2017-06-29 12:01:13",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/a02d5dbd009af556284c68f1850fb467aef6441b.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2439,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2440,
+        "filename": "007-17PPSA-4.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4183094",
+        "created_at": "2017-06-29 12:01:20",
+        "updated_at": "2017-06-29 12:01:20",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/3c421e1ff273418b5a22f2646f9f162b09ee2ee9.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2440,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2441,
+        "filename": "007-17PPSA-5.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4083987",
+        "created_at": "2017-06-29 12:01:26",
+        "updated_at": "2017-06-29 12:01:26",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/a8952595e299ae4b85912cdeb59d57af1f80c21d.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2441,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2442,
+        "filename": "007-17PPSA-6.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4038812",
+        "created_at": "2017-06-29 12:01:33",
+        "updated_at": "2017-06-29 12:01:33",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/fc748ff449038f105fe49d158eec755bb867e328.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2442,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2443,
+        "filename": "007-17PPSA-7.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4132776",
+        "created_at": "2017-06-29 12:01:39",
+        "updated_at": "2017-06-29 12:01:39",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/4ab4886a57c8148bef04c7d1512d0d81cee50142.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2443,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2444,
+        "filename": "007-17PPSA-8.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4284234",
+        "created_at": "2017-06-29 12:01:46",
+        "updated_at": "2017-06-29 12:01:46",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/4c0969d47f0025efbb212a2cfb57a05d093f81fe.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2444,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2445,
+        "filename": "007-17PPSA-9.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4370611",
+        "created_at": "2017-06-29 12:01:56",
+        "updated_at": "2017-06-29 12:01:56",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/dd330da2c33596d22b3cbd7ea192a5b2502a1761.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2445,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2446,
+        "filename": "007-17PPSA-10.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "3768772",
+        "created_at": "2017-06-29 12:02:02",
+        "updated_at": "2017-06-29 12:02:02",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2acd126e05a90d921a334e3bcff9dab010cffe99.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2446,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2447,
+        "filename": "007-17PPSA-11.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4710009",
+        "created_at": "2017-06-29 12:02:10",
+        "updated_at": "2017-06-29 12:02:10",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/e0e26f8bd861b20917c3d5ac0ee652e64a16e852.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2447,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2448,
+        "filename": "007-17PPSA-12.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4478194",
+        "created_at": "2017-06-29 12:02:17",
+        "updated_at": "2017-06-29 12:02:17",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/57830347d265bc5ca38606eec705e7be2709b4f7.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2448,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2449,
+        "filename": "007-17PPSA-13.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4469808",
+        "created_at": "2017-06-29 12:02:24",
+        "updated_at": "2017-06-29 12:02:24",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/8966513c63251be46141cb4513c12d155950ec4b.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2449,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2450,
+        "filename": "007-17PPSA-14.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "3906525",
+        "created_at": "2017-06-29 12:02:31",
+        "updated_at": "2017-06-29 12:02:31",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/3453dc084e849f2b5980dceb5fc8cc61f6b7902d.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2450,
+          "created_at": "2017-06-29 12:30:55",
+          "updated_at": "2017-06-29 12:30:55"
+        }
+      },
+      {
+        "id": 2451,
+        "filename": "007-17PPSA-15.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4745536",
+        "created_at": "2017-06-29 12:02:38",
+        "updated_at": "2017-06-29 12:02:38",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/c2de4a892f2e2f972696cea1782af8a5fe44be45.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2451,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2452,
+        "filename": "007-17PPSA-16.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "3862895",
+        "created_at": "2017-06-29 12:02:44",
+        "updated_at": "2017-06-29 12:02:44",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/afe8d7079a0c4ffbd3fd45d3f66889e0e0b61b5a.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2452,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2453,
+        "filename": "007-17PPSA-17.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4458537",
+        "created_at": "2017-06-29 12:02:51",
+        "updated_at": "2017-06-29 12:02:51",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/efc00d002a1b6da9557a3ef78982eeb691d693b9.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2453,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2454,
+        "filename": "007-17PPSA-18.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4486614",
+        "created_at": "2017-06-29 12:03:04",
+        "updated_at": "2017-06-29 12:03:04",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/9b6db234aa023193fe8b0cbf752ebf8b86674ecb.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2454,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2455,
+        "filename": "007-17PPSA-19.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "3996716",
+        "created_at": "2017-06-29 12:03:12",
+        "updated_at": "2017-06-29 12:03:12",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/ded6d43d797e5de430a9f41caec031f11a8cef43.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2455,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2456,
+        "filename": "007-17PPSA-20.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4295899",
+        "created_at": "2017-06-29 12:03:19",
+        "updated_at": "2017-06-29 12:03:19",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/20db173bda48096deef7ee44e8b08bf31bb625d0.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2456,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2457,
+        "filename": "007-17PPSA-21.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4466052",
+        "created_at": "2017-06-29 12:03:29",
+        "updated_at": "2017-06-29 12:03:29",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/3a341133e7a954eb484aaa577086b1abe309e15d.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2457,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2458,
+        "filename": "007-17PPSA-22.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4323668",
+        "created_at": "2017-06-29 12:03:37",
+        "updated_at": "2017-06-29 12:03:37",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/dcd63c95af80e8388a56e95316941853327f075f.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2458,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2459,
+        "filename": "007-17PPSA-23.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4143048",
+        "created_at": "2017-06-29 12:03:46",
+        "updated_at": "2017-06-29 12:03:46",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/6c4cbc70377fed272666a66cc50235518dc3d5b8.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2459,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2460,
+        "filename": "007-17PPSA-24.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4124080",
+        "created_at": "2017-06-29 12:03:53",
+        "updated_at": "2017-06-29 12:03:53",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/6298b762d8af15c6f068510473fd157afec78c85.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2460,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2461,
+        "filename": "007-17PPSA-25.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4081866",
+        "created_at": "2017-06-29 12:04:00",
+        "updated_at": "2017-06-29 12:04:00",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/bf6500122c3238c3994b6f27814dabc6fb4399d4.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2461,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2462,
+        "filename": "007-17PPSA-26.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4511399",
+        "created_at": "2017-06-29 12:04:08",
+        "updated_at": "2017-06-29 12:04:08",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/98a971d5e897b012e4ce1c48099755c4db26002a.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2462,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2463,
+        "filename": "007-17PPSA-27.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4685866",
+        "created_at": "2017-06-29 12:04:20",
+        "updated_at": "2017-06-29 12:04:20",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/608c62906685bbb550462b45457790eca17c5f42.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2463,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2464,
+        "filename": "007-17PPSA-28.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4074378",
+        "created_at": "2017-06-29 12:04:31",
+        "updated_at": "2017-06-29 12:04:31",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2583fe3731b6fa769051c8268a278e960eea1c6b.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2464,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2465,
+        "filename": "007-17PPSA-29.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4760704",
+        "created_at": "2017-06-29 12:04:38",
+        "updated_at": "2017-06-29 12:04:38",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/996fca73b882fb9ebed84dd7af2604cca55f133d.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2465,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2466,
+        "filename": "007-17PPSA-30.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4451407",
+        "created_at": "2017-06-29 12:04:46",
+        "updated_at": "2017-06-29 12:04:46",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/5a12e38ad621d2e962fd0882618fd6bdd8668a67.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2466,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2467,
+        "filename": "007-17PPSA-31.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "2914986",
+        "created_at": "2017-06-29 12:04:53",
+        "updated_at": "2017-06-29 12:04:53",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/d95af1486a3fc88155031bc41f78faa10a8f64d5.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2467,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2468,
+        "filename": "007-17PPSA-32.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "4387445",
+        "created_at": "2017-06-29 12:05:05",
+        "updated_at": "2017-06-29 12:05:05",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/fa031914d6b323e4114ab8832347ec186daec834.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2468,
+          "created_at": "2017-06-29 12:30:56",
+          "updated_at": "2017-06-29 12:30:56"
+        }
+      },
+      {
+        "id": 2469,
+        "filename": "007-17PPSA-33.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "3234287",
+        "created_at": "2017-06-29 12:05:15",
+        "updated_at": "2017-06-29 12:05:15",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/eeb6990c251a4df4b9696ca56ab91e35b36d47b4.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2469,
+          "created_at": "2017-06-29 12:30:57",
+          "updated_at": "2017-06-29 12:30:57"
+        }
+      },
+      {
+        "id": 2470,
+        "filename": "007-17PPSA-34.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "3460827",
+        "created_at": "2017-06-29 12:05:24",
+        "updated_at": "2017-06-29 12:05:24",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/0daf71fbbef5bbeb514648c86f1ce43ab78a98d2.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2470,
+          "created_at": "2017-06-29 12:30:57",
+          "updated_at": "2017-06-29 12:30:57"
+        }
+      },
+      {
+        "id": 2471,
+        "filename": "007-17PPSA-35.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "3605512",
+        "created_at": "2017-06-29 12:05:31",
+        "updated_at": "2017-06-29 12:05:31",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/bba3ebf0ae978f40b553b80847d59747b72fc5ae.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2471,
+          "created_at": "2017-06-29 12:30:57",
+          "updated_at": "2017-06-29 12:30:57"
+        }
+      },
+      {
+        "id": 2472,
+        "filename": "007-17PPSA-36.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "3770502",
+        "created_at": "2017-06-29 12:05:37",
+        "updated_at": "2017-06-29 12:05:37",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/467ce42d7254071d9da4d6406aa205b8f7356437.pdf",
+        "pivot": {
+          "licitacao_id": 2032,
+          "arquivo_id": 2472,
+          "created_at": "2017-06-29 12:30:57",
+          "updated_at": "2017-06-29 12:30:57"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/2032'>Ver mais</a>"
+  },
+  {
+    "id": 1965,
+    "created_by": 37,
+    "modalidade_id": 12,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "006/2017",
+    "numero_processo": "1910/2017",
+    "objeto": "Contratação de Empresa Especializada para a Execução dos Serviços de Manutenção\r\nCorretiva, Preventiva, Ampliação, Construção e Recuperação da Rede de Drenagem e\r\nEsgoto na Sede e nos Distritos no Município de Candeias/BA",
+    "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Homologada",
+    "data_realizacao": "2017-06-06 12:24:23",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 14:51:30",
+    "updated_at": "2018-05-29 12:24:23",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS\r\n• Unidade Orçamentária 10.01 - Secretaria Municipal de Infraestrutura e Obras\r\n• Unidade Gestora 10 - Secretaria Municipal de Infraestrutura e Obras\r\n• Projeto/Atividade 1017 – Urbanização e Pavimentação de Vias Públicas\r\n• Elemento de Despesa 44.90.51.00.00 – Obras e Instalações\r\n• Fonte de Recursos 00.01.0000 – Tesouro\r\nSECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS\r\n• Unidade Orçamentária 10.01 - Secretaria Municipal de Infraestrutura e Obras\r\n• Unidade Gestora 10 - Secretaria Municipal de Infraestrutura e Obras\r\n• Projeto/Atividade 1017 – Urbanização e Pavimentação de Vias Públicas\r\n• Elemento de Despesa 33.90.39.00.00 – Outros Serviços de Terceiros- Pessoa Jurídica\r\n• Fonte de Recursos 00.01.0042 – Recursos Royalties",
+    "modalidade_descricao": "Tomada de Preços",
+    "lic_numero": 6,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 12,
+      "descricao": "Tomada de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [
+      {
+        "id": 1302,
+        "licitacao_id": 1965,
+        "objeto": "Contratação de Empresa Especializada para a Execução dos Serviços de Manutenção Corretiva, Preventiva, Ampliação, Construção e Recuperação da Rede de Drenagem e Esgoto na Sede e nos Distritos no Município de Candeias/BA",
+        "vencedor": "AMM EMPREENDIMENTOS LTDA",
+        "cnpj": "03.997.365/0001-20",
+        "valor": "876430.68",
+        "created_at": "2018-05-24 13:06:30",
+        "updated_at": "2018-05-24 13:06:45",
+        "deleted_at": null
+      }
+    ],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2301,
+        "filename": "EDITAL TP 0062017 - DRENAGEM.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "305862",
+        "created_at": "2017-06-28 14:50:12",
+        "updated_at": "2017-06-28 14:50:12",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/6285e7eeed74ee76aced2c9f20ffaafe9914bf1e.pdf",
+        "pivot": {
+          "licitacao_id": 1965,
+          "arquivo_id": 2301,
+          "created_at": "2017-06-28 14:51:30",
+          "updated_at": "2017-06-28 14:51:30"
+        }
+      },
+      {
+        "id": 2302,
+        "filename": "ANEXO 4 - TP 0062017 REDE DE DRENAGEM CANDEIAS.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "288019",
+        "created_at": "2017-06-28 14:50:16",
+        "updated_at": "2017-06-28 14:50:16",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/46360c225e4722ba952571cb33b201eb0ea22619.pdf",
+        "pivot": {
+          "licitacao_id": 1965,
+          "arquivo_id": 2302,
+          "created_at": "2017-06-28 14:51:30",
+          "updated_at": "2017-06-28 14:51:30"
+        }
+      },
+      {
+        "id": 9046,
+        "filename": "ATA DE ABERTURA.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "74003",
+        "created_at": "2018-05-29 12:24:18",
+        "updated_at": "2018-05-29 12:24:18",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/1e4e27189cd3eeef33c788cf25807f425ed3f0e8.pdf",
+        "pivot": {
+          "licitacao_id": 1965,
+          "arquivo_id": 9046,
+          "created_at": "2018-05-29 12:24:23",
+          "updated_at": "2018-05-29 12:24:23"
+        }
+      },
+      {
+        "id": 9047,
+        "filename": "ATA DE JULGAMENTO - PUBLICAÇÃO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "436266",
+        "created_at": "2018-05-29 12:24:18",
+        "updated_at": "2018-05-29 12:24:18",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/710c0eca350902ae73fbd9a2d043d9ed901fa722.pdf",
+        "pivot": {
+          "licitacao_id": 1965,
+          "arquivo_id": 9047,
+          "created_at": "2018-05-29 12:24:23",
+          "updated_at": "2018-05-29 12:24:23"
+        }
+      },
+      {
+        "id": 9048,
+        "filename": "CONT 048-18 TP 006-17.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "1086614",
+        "created_at": "2018-05-29 12:24:19",
+        "updated_at": "2018-05-29 12:24:19",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/43ff8f34d7ea3b9c96ab76f33bacdfa78da93e2d.pdf",
+        "pivot": {
+          "licitacao_id": 1965,
+          "arquivo_id": 9048,
+          "created_at": "2018-05-29 12:24:24",
+          "updated_at": "2018-05-29 12:24:24"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1965'>Ver mais</a>"
+  },
+  {
+    "id": 1964,
+    "created_by": 37,
+    "modalidade_id": 12,
+    "tipo_id": 1,
+    "entidade_id": 2,
+    "numero": "005/2017",
+    "numero_processo": "1567/2017",
+    "objeto": "Contratação de empresa especializada em execução dos serviços de pavimentação asfáltica em\r\ndiversas ruas do bairro de Ouro Negro (Rua M - Mataripe, Rua J - São Jorge e Rua\r\nAlfredo Serra), Contrato de Repasse nº1024496-42/2015 no Município de Candeias, Bahia.",
+    "orgao": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS",
+    "contrato": null,
+    "patrimonio_liquido_minimo": null,
+    "situacao": "Em Curso",
+    "data_realizacao": "2017-06-05 14:48:56",
+    "data_adjudicacao": null,
+    "data_homologacao": null,
+    "created_at": "2017-06-28 14:48:21",
+    "updated_at": "2017-06-28 14:48:56",
+    "deleted_at": null,
+    "dotacao_orcamentaria": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS\r\n• Unidade Orçamentária 10.01 - Secretaria Municipal de Infraestrutura e Obras\r\n• Unidade Gestora 10 - Secretaria Municipal de Infraestrutura e Obras\r\n• Projeto/Atividade 1017 – Urbanização e pavimentação de vias públicas\r\n• Elemento de Despesa 4490.51.00.00 – Obras e Instalações\r\n• Fonte de Recursos 00.01.0000 – Recursos Tesouro\r\n00.01.0024 – Recursos Convênio",
+    "modalidade_descricao": "Tomada de Preços",
+    "lic_numero": 5,
+    "lic_ano": 2017,
+    "entidade": {
+      "id": 2,
+      "url": "ba/candeias",
+      "uf": "ba",
+      "cidade": "candeias",
+      "nome": "Prefeitura Municipal de Candeias",
+      "email": "",
+      "licitacoes_por_fases": 0,
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2017-06-08 11:29:49"
+    },
+    "modalidade": {
+      "id": 12,
+      "descricao": "Tomada de Preços",
+      "created_at": "2015-09-11 19:48:57",
+      "updated_at": "2015-09-11 19:48:57"
+    },
+    "lotes": [],
+    "contratos": [],
+    "anexos": [
+      {
+        "id": 2298,
+        "filename": "EDITAL TP 0052017 - REFORMULADO - PAVIMENTACAO  ASFALTICA OURO NEGRO REFORMULADO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "335866",
+        "created_at": "2017-06-28 14:47:00",
+        "updated_at": "2017-06-28 14:47:00",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2ea9af4c588f84f50d32913e8e89dfb1d3f2b5aa.pdf",
+        "pivot": {
+          "licitacao_id": 1964,
+          "arquivo_id": 2298,
+          "created_at": "2017-06-28 14:48:21",
+          "updated_at": "2017-06-28 14:48:21"
+        }
+      },
+      {
+        "id": 2299,
+        "filename": "ANEXO 4 - TP 0052017 - REFORMULADA - PAVIMENTACAO  ASFALTICA OURO NEGRO.pdf",
+        "mime_type": "application/pdf",
+        "filesize": "160416",
+        "created_at": "2017-06-28 14:47:06",
+        "updated_at": "2017-06-28 14:47:06",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/a3893bea3600df96ff67e979525e9bf197c5af00.pdf",
+        "pivot": {
+          "licitacao_id": 1964,
+          "arquivo_id": 2299,
+          "created_at": "2017-06-28 14:48:22",
+          "updated_at": "2017-06-28 14:48:22"
+        }
+      },
+      {
+        "id": 2300,
+        "filename": "ANEXO 4 - TP 0052017 - RUAS DO BAIRRO OURO NEGRO(1).pdf",
+        "mime_type": "application/pdf",
+        "filesize": "76855",
+        "created_at": "2017-06-28 14:48:52",
+        "updated_at": "2017-06-28 14:48:52",
+        "deleted_at": null,
+        "url": "http://acessoinformacao.org.br/licitacoes/arquivos/download/2df6181502ef60b306784f427cb0b03386e0e53e.pdf",
+        "pivot": {
+          "licitacao_id": 1964,
+          "arquivo_id": 2300,
+          "created_at": "2017-06-28 14:48:56",
+          "updated_at": "2017-06-28 14:48:56"
+        }
+      }
+    ],
+    "tipo": {
+      "id": 1,
+      "descricao": "Menor Preço",
+      "created_at": "2015-09-11 19:48:56",
+      "updated_at": "2015-09-11 19:48:56"
+    },
+    "action": "<a href='http://acessoinformacao.org.br/licitacoes/entidades/ba/candeias/licitacoes/exibir/1964'>Ver mais</a>"
+  }
+]
